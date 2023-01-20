@@ -1,0 +1,106 @@
+<!-- Aseprite -->
+<!-- Copyright (C) 2001-2014 by David Capello -->
+<gui>
+  <window id="options" text="Preferences">
+  <vbox>
+    <hbox>
+      <view maxsize="true">
+        <listbox id="section_listbox">
+          <listitem text="General" value="section_general" />
+          <listitem text="Editor" value="section_editor" />
+          <listitem text="Grid &amp;&amp; Background" value="section_grid" />
+          <listitem text="Undo" value="section_undo" />
+          <listitem text="Experimental" value="section_experimental" />
+        </listbox>
+      </view>
+
+      <panel id="panel">
+        <vbox id="section_general">
+          <separator text="General" horizontal="true" />
+          <hbox>
+            <label text="Screen Scale:" />
+            <combobox id="screen_scale" />
+          </hbox>
+          <check text="Show timeline automatically" id="autotimeline" tooltip="Show the timeline automatically&#10;when a new frame or layer is added." />
+          <check text="Expand menu bar items on mouseover" id="expand_menubar_on_mouseover" tooltip="Check this option to get&#10;this old menus behavior." />
+          <check text="Center editor when zoom with keys or zoom tool" id="center_on_zoom" />
+          <separator horizontal="true" />
+          <link id="locate_file" text="Locate Configuration File" />
+          <link id="locate_crash_folder" text="Locate Crash Folder" />
+        </vbox>
+
+        <!-- Editor -->
+        <vbox id="section_editor">
+          <separator text="Editor" horizontal="true" />
+          <check text="Zoom with Scroll Wheel" id="wheel_zoom" />
+          <check text="Show scroll-bars in sprite editor" id="show_scrollbars" tooltip="Show scroll-bars in all sprite editors." />
+          <hbox>
+            <label text="Right-click:" />
+            <combobox id="right_click_behavior" expansive="true" />
+          </hbox>
+          <hbox>
+            <label text="Cursor Color:" />
+            <box id="cursor_color_box" /><!-- custom widget -->
+          </hbox>
+        </vbox>
+
+        <!-- Grid & background -->
+        <vbox id="section_grid">
+          <separator text="Grid" horizontal="true" />
+          <grid columns="2">
+            <label text="Grid Color:" />
+            <box id="grid_color_box" /><!-- custom widget -->
+
+            <label text="Pixel Grid:" />
+            <box id="pixel_grid_color_box" /><!-- custom widget -->
+          </grid>
+
+          <separator text="Checked Background" horizontal="true" />
+          <box horizontal="true">
+            <label text="Size:" />
+            <combobox id="checked_bg_size" expansive="true" />
+          </box>
+          <check text="Apply Zoom" id="checked_bg_zoom" />
+          <grid columns="2">
+            <label text="Color 1" />
+            <box horizontal="true" id="checked_bg_color1_box" />
+            <label text="Color 2" />
+            <box horizontal="true" id="checked_bg_color2_box" />
+          </grid>
+          <button id="checked_bg_reset" text="Reset" />
+        </vbox>
+
+        <!-- Undo -->
+        <vbox id="section_undo">
+          <separator text="Undo" horizontal="true" />
+          <box horizontal="true">
+            <label text="Undo Limit:" />
+            <entry id="undo_size_limit" maxsize="4" tooltip="Limit of memory to be used&#10;for undo information per sprite.&#10;Specified in megabytes." />
+            <label text="MB" />
+          </box>
+
+          <box horizontal="true">
+            <check id="undo_goto_modified" text="Go to modified frame/layer" tooltip="When it's enabled each time you undo/redo&#10;the current frame &amp; layer will be modified&#10;to focus the undid/redid change." />
+          </box>
+        </vbox>
+
+        <!-- Experimental -->
+        <vbox id="section_experimental">
+          <separator text="User Interface" horizontal="true" />
+          <check id="native_cursor" text="Use native mouse cursor" />
+          <check id="flash_layer" text="Flash layer when it is selected" />
+        </vbox>
+
+      </panel>
+    </hbox>
+    <separator horizontal="true" />
+    <hbox>
+      <boxfiller />
+      <hbox homogeneous="true">
+        <button text="&amp;OK" closewindow="true" id="button_ok" magnet="true" width="60" />
+        <button text="&amp;Cancel" closewindow="true" />
+      </hbox>
+    </hbox>
+  </vbox>
+  </window>
+</gui>
