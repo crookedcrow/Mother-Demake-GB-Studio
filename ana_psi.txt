@@ -1,0 +1,15 @@
+lvl 1: freeze1: 8-15: cost 3      redo: lvl 1- freeze 1: 10-12 dmg: cost 5 (high damage, high pp)
+lvl 2: thunder1: 10-12: cost 3    redo: lvl 1- thunder 1: 8-15 dmg: cost 3 (low pp, luck based)
+lvl 5: beam1: 28-32: cost 4       redo: lvl 5- beam 1: 23-30 dmg: cost 6 (basic attack)
+lvl 8: freeze2: 36-45: cost 5     redo: lvl 8- freeze 2: 28-32 dmg: cost 5 (rd 2)
+lvl 9: thunder2: 48-55: cost 6    redo: lvl 9- thunder 2: 24-38 dmg: cost 4
+lvl 11: beam2: 70-85: cost 7      redo: lvl 11- beam 2: 42-50 dmg: cost 7 (rnd 2)
+lvl 17: fire 1: 18-22: cost 8     redo: lvl 17- fire 1: 70 dmg: cost 10 (high cost, high damage 2)
+lvl 21: freeze3: 50-60: cost 8    redo: lvl 21- freeze 3: 50-60: cost 8
+lvl 25: beam3: kill: cost 12      redo: lvl 25- thunder 3: 45-66: cost 7
+lvl 27: fire 2: 50-60: cost 12    redo: lvl 27- fire 2: 80 dmg: cost 12
+lvl 28: thunder3: 48-55: cost 12  redo: lvl 28- beam 3: 62-70 dmg: cost 10
+lvl 29: freeze4: 50-80: cost 13   redo: lvl 29- freeze 4: 72-84 dmg: cost 11
+lvl 33: beam4: 100-210: cost 24   redo: lvl 33- thunder 4: 70-90 dmg: cost 10
+lvl 35: fire 3: kill: cost 30     redo: lvl 40- fire 4: kill: 30
+

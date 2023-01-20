@@ -1,0 +1,20 @@
+Progress Flags
+1- first lamp battle
+2- second lamp battle
+3- baby battle
+4- canary chick
+5- pippi
+6- zoo key
+7- starman jr battle
+8- guard riddle
+9- queen mary 1
+10- magicant teleport to cave 2
+11- guard dog pass
+12- big rocket
+13- ana hat
+14- starman fight
+15- rosemary manor key
+16- tank
+
+
+1- magicant cave 3
