@@ -1,2 +1,3 @@
 random event flags
 1. magicant spoon
+2. magicant riddle
