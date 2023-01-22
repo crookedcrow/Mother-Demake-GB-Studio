@@ -1,0 +1,24 @@
+music
+1. title
+2 poltergeist
+3. house
+4. victory
+5. rest (sleep)
+6. game over
+7. rest (good morning)
+8. battle swing
+9. pollyanna
+10. battle rock
+11. cave
+12. melody 2
+13. melody 3
+14. m 4
+15. m 5
+16. m 6
+17. m 7
+18. melody 8
+19. magicant
+20. wisdom of the world
+21. bein friends
+song_template. melody 1
+template. battle 1
