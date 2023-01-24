@@ -20,5 +20,6 @@ music
 19. magicant
 20. wisdom of the world
 21. bein friends
+22. humoresque dog
 song_template. melody 1
 template. battle 1

@@ -3,3 +3,4 @@ healing spaces flags (CLEAR ALL BEFORE ADDING)
 2. podunk hotel
 3. magicant spoon house
 4. magicant hotel
+5. merrysvill hotel
