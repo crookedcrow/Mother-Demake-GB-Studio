@@ -11,3 +11,5 @@ random event flags
 10. padlock twinkle
 11. rooftop twinkle
 12. llyoid comes out (good for him)
+13. zombie person fight 1
+14. zombie person fight 2
