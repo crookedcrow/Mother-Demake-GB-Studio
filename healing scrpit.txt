@@ -1,0 +1,13 @@
+dialogue
+fade out
+call ninten lvl stats
+call ana lvl stats
+call heal script
+play song template 5
+wait 4 secs
+stop music
+play appropriate music track
+fade screen in
+dialogue
+clear healing flags
+add healing flag

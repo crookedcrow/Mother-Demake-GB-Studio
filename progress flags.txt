@@ -16,10 +16,10 @@ Progress Flags
 15- rosemary manor key
 16- tank
 
-
-1- magicant cave 3
-2. baby
-3. live house
-4. dance
-5. eve
-6. 
+1. r7037flag
+2- magicant cave 3
+3. baby
+4. live house
+5. dance
+6. eve
+7. 
