@@ -1,11 +1,6 @@
-not enough money, burger
-magicant moneky misspell
+
 0 hp bug (starting at zoo)
-train ana else llyoid
-collision stairs mansion
-outside mansion glitch
-xx cave collision
-bb gang member store stack
-ticket salesperson
+
+
 
 *= not tested to be fixed yet
