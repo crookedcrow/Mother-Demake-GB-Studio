@@ -27,5 +27,16 @@ music
 26. snowman
 27. cemetery
 28. magicant cave
+29. desert
+30. monkey
+31. youngtown
+32. club
+33. all that i needed
+34.itoi cave
+35. mt itoi
+36. fallin love
+37. the grave
+38. eight melodies
+39. eight melodies together (queen marys theme)
 song_template. melody 1
 template. battle 1

@@ -19,3 +19,4 @@ random event flags
 random events 2
 
 1. drinking
+2. teddy talking

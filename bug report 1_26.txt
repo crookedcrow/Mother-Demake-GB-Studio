@@ -1,3 +1,4 @@
 
+0 hp bug (starting at zoo)
 
 *= not tested to be fixed yet
