@@ -1,5 +1,14 @@
-
-0 hp bug (starting at zoo)
+0 hp bug (starting at starman jr)
+starmen teleport spookane *
+r7 battle repeat*
+change teddy actor *
+teddy text box *
+ninten to ana stats *
+dragon teleport *
+ellay teleport *
+teleport telepathy *
+ellay department *
+teleport random battle sent previous spot *
 
 
 
