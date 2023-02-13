@@ -4276,6 +4276,7 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BE  ___bank_scene_285_init             scene_285_init
      000000BE  ___bank_scene_286_init             scene_286_init
      000000BE  ___bank_scene_287_init             scene_287_init
+     000000BE  ___bank_scene_294_sprites          scene_294_sprites
      000000BE  ___bank_scene_305_init             scene_305_init
      000000BE  ___bank_scene_307_init             scene_307_init
      000000BE  ___bank_scene_308_init             scene_308_init
@@ -4301,9 +4302,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BE  ___bank_scene_5_triggers           scene_5_triggers
      000000BE  ___bank_scene_68_init              scene_68_init
      000000BE  ___bank_scene_69_init              scene_69_init
-     000000BE  ___bank_scene_70_init              scene_70_init
-     000000BE  ___bank_scene_71_init              scene_71_init
-     000000BE  ___bank_scene_72_init              scene_72_init
      000000BE  ___bank_scene_95_triggers          scene_95_triggers
      000000BE  ___bank_scene_96_triggers          scene_96_triggers
      000000BE  ___bank_scene_97_triggers          scene_97_triggers
@@ -4317,6 +4315,8 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BE  ___bank_trigger_263_interact       trigger_263_interact
      000000BE  ___bank_trigger_264_interact       trigger_264_interact
      000000BE  ___bank_trigger_265_interact       trigger_265_interact
+     000000BE  ___bank_trigger_266_interact       trigger_266_interact
+     000000BE  ___bank_trigger_267_interact       trigger_267_interact
 ASxxxx Linker V03.00 + NoICE + sdld,  page 73.
 Hexadecimal  [32-Bits]
 
@@ -4326,8 +4326,6 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     000000BE  ___bank_trigger_266_interact       trigger_266_interact
-     000000BE  ___bank_trigger_267_interact       trigger_267_interact
      000000BE  ___bank_trigger_268_interact       trigger_268_interact
      000000BE  ___bank_trigger_269_interact       trigger_269_interact
      000000BE  ___bank_trigger_26_interact        trigger_26_interact
@@ -4377,6 +4375,8 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BE  ___bank_trigger_319_interact       trigger_319_interact
      000000BE  ___bank_trigger_31_interact        trigger_31_interact
      000000BE  ___bank_trigger_320_interact       trigger_320_interact
+     000000BE  ___bank_trigger_321_interact       trigger_321_interact
+     000000BE  ___bank_trigger_322_interact       trigger_322_interact
 ASxxxx Linker V03.00 + NoICE + sdld,  page 74.
 Hexadecimal  [32-Bits]
 
@@ -4386,8 +4386,6 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     000000BE  ___bank_trigger_321_interact       trigger_321_interact
-     000000BE  ___bank_trigger_322_interact       trigger_322_interact
      000000BE  ___bank_trigger_323_interact       trigger_323_interact
      000000BE  ___bank_trigger_324_interact       trigger_324_interact
      000000BE  ___bank_trigger_325_interact       trigger_325_interact
@@ -4437,6 +4435,8 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BE  ___bank_trigger_400_interact       trigger_400_interact
      000000BE  ___bank_trigger_401_interact       trigger_401_interact
      000000BE  ___bank_trigger_402_interact       trigger_402_interact
+     000000BE  ___bank_trigger_403_interact       trigger_403_interact
+     000000BE  ___bank_trigger_404_interact       trigger_404_interact
 ASxxxx Linker V03.00 + NoICE + sdld,  page 75.
 Hexadecimal  [32-Bits]
 
@@ -4446,8 +4446,6 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     000000BE  ___bank_trigger_403_interact       trigger_403_interact
-     000000BE  ___bank_trigger_404_interact       trigger_404_interact
      000000BE  ___bank_trigger_405_interact       trigger_405_interact
      000000BE  ___bank_trigger_406_interact       trigger_406_interact
      000000BE  ___bank_trigger_407_interact       trigger_407_interact
@@ -4471,6 +4469,7 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BE  ___bank_trigger_42_interact        trigger_42_interact
      000000BE  ___bank_trigger_431_interact       trigger_431_interact
      000000BE  ___bank_trigger_432_interact       trigger_432_interact
+     000000BE  ___bank_trigger_433_interact       trigger_433_interact
      000000BE  ___bank_trigger_434_interact       trigger_434_interact
      000000BE  ___bank_trigger_435_interact       trigger_435_interact
      000000BE  ___bank_trigger_436_interact       trigger_436_interact
@@ -4497,6 +4496,7 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BE  ___bank_trigger_455_interact       trigger_455_interact
      000000BE  ___bank_trigger_456_interact       trigger_456_interact
      000000BE  ___bank_trigger_457_interact       trigger_457_interact
+     000000BE  ___bank_trigger_458_interact       trigger_458_interact
 ASxxxx Linker V03.00 + NoICE + sdld,  page 76.
 Hexadecimal  [32-Bits]
 
@@ -4506,7 +4506,6 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     000000BE  ___bank_trigger_458_interact       trigger_458_interact
      000000BE  ___bank_trigger_459_interact       trigger_459_interact
      000000BE  ___bank_trigger_45_interact        trigger_45_interact
      000000BE  ___bank_trigger_460_interact       trigger_460_interact
@@ -4557,6 +4556,7 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BE  ___bank_trigger_516_interact       trigger_516_interact
      000000BE  ___bank_trigger_517_interact       trigger_517_interact
      000000BE  ___bank_trigger_518_interact       trigger_518_interact
+     000000BE  ___bank_trigger_519_interact       trigger_519_interact
 ASxxxx Linker V03.00 + NoICE + sdld,  page 77.
 Hexadecimal  [32-Bits]
 
@@ -4566,7 +4566,6 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     000000BE  ___bank_trigger_519_interact       trigger_519_interact
      000000BE  ___bank_trigger_51_interact        trigger_51_interact
      000000BE  ___bank_trigger_520_interact       trigger_520_interact
      000000BE  ___bank_trigger_521_interact       trigger_521_interact
@@ -4617,6 +4616,7 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BE  ___bank_trigger_584_interact       trigger_584_interact
      000000BE  ___bank_trigger_585_interact       trigger_585_interact
      000000BE  ___bank_trigger_586_interact       trigger_586_interact
+     000000BE  ___bank_trigger_587_interact       trigger_587_interact
 ASxxxx Linker V03.00 + NoICE + sdld,  page 78.
 Hexadecimal  [32-Bits]
 
@@ -4626,10 +4626,10 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     000000BE  ___bank_trigger_587_interact       trigger_587_interact
      000000BE  ___bank_trigger_588_interact       trigger_588_interact
      000000BE  ___bank_trigger_589_interact       trigger_589_interact
      000000BE  ___bank_trigger_58_interact        trigger_58_interact
+     000000BE  ___bank_trigger_590_interact       trigger_590_interact
      000000BE  ___bank_trigger_59_interact        trigger_59_interact
      000000BE  ___bank_trigger_5_interact         trigger_5_interact
      000000BE  ___bank_trigger_60_interact        trigger_60_interact
@@ -5070,6 +5070,7 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BF  ___bank_scene_227_sprites          scene_227_sprites
      000000BF  ___bank_scene_228_triggers         scene_228_triggers
      000000BF  ___bank_scene_229_triggers         scene_229_triggers
+     000000BF  ___bank_scene_230_triggers         scene_230_triggers
      000000BF  ___bank_scene_234_triggers         scene_234_triggers
      000000BF  ___bank_scene_235_sprites          scene_235_sprites
      000000BF  ___bank_scene_236_triggers         scene_236_triggers
@@ -5096,7 +5097,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BF  ___bank_scene_269_sprites          scene_269_sprites
      000000BF  ___bank_scene_269_triggers         scene_269_triggers
      000000BF  ___bank_scene_270_triggers         scene_270_triggers
-     000000BF  ___bank_scene_271_triggers         scene_271_triggers
 ASxxxx Linker V03.00 + NoICE + sdld,  page 86.
 Hexadecimal  [32-Bits]
 
@@ -5106,6 +5106,7 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
+     000000BF  ___bank_scene_271_triggers         scene_271_triggers
      000000BF  ___bank_scene_27_sprites           scene_27_sprites
      000000BF  ___bank_scene_283_sprites          scene_283_sprites
      000000BF  ___bank_scene_283_triggers         scene_283_triggers
@@ -5113,7 +5114,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BF  ___bank_scene_285_sprites          scene_285_sprites
      000000BF  ___bank_scene_285_triggers         scene_285_triggers
      000000BF  ___bank_scene_287_triggers         scene_287_triggers
-     000000BF  ___bank_scene_294_sprites          scene_294_sprites
      000000BF  ___bank_scene_296_sprites          scene_296_sprites
      000000BF  ___bank_scene_297_sprites          scene_297_sprites
      000000BF  ___bank_scene_298_sprites          scene_298_sprites
@@ -5241,10 +5241,13 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BF  ___bank_scene_69_triggers          scene_69_triggers
      000000BF  ___bank_scene_6_sprites            scene_6_sprites
      000000BF  ___bank_scene_6_triggers           scene_6_triggers
+     000000BF  ___bank_scene_70_init              scene_70_init
      000000BF  ___bank_scene_70_sprites           scene_70_sprites
      000000BF  ___bank_scene_70_triggers          scene_70_triggers
+     000000BF  ___bank_scene_71_init              scene_71_init
      000000BF  ___bank_scene_71_sprites           scene_71_sprites
      000000BF  ___bank_scene_71_triggers          scene_71_triggers
+     000000BF  ___bank_scene_72_init              scene_72_init
      000000BF  ___bank_scene_72_sprites           scene_72_sprites
      000000BF  ___bank_scene_72_triggers          scene_72_triggers
      000000BF  ___bank_scene_73_init              scene_73_init
@@ -5274,9 +5277,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BF  ___bank_scene_80_triggers          scene_80_triggers
      000000BF  ___bank_scene_82_init              scene_82_init
      000000BF  ___bank_scene_82_sprites           scene_82_sprites
-     000000BF  ___bank_scene_82_triggers          scene_82_triggers
-     000000BF  ___bank_scene_83_init              scene_83_init
-     000000BF  ___bank_scene_83_sprites           scene_83_sprites
 ASxxxx Linker V03.00 + NoICE + sdld,  page 89.
 Hexadecimal  [32-Bits]
 
@@ -5286,6 +5286,9 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
+     000000BF  ___bank_scene_82_triggers          scene_82_triggers
+     000000BF  ___bank_scene_83_init              scene_83_init
+     000000BF  ___bank_scene_83_sprites           scene_83_sprites
      000000BF  ___bank_scene_83_triggers          scene_83_triggers
      000000BF  ___bank_scene_84_init              scene_84_init
      000000BF  ___bank_scene_84_sprites           scene_84_sprites
@@ -5334,9 +5337,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      000000BF  ___bank_script_input_49            script_input_49
      000000BF  ___bank_script_input_51            script_input_51
      000000BF  ___bank_script_input_55            script_input_55
-     000000BF  ___bank_script_input_57            script_input_57
-     000000BF  ___bank_script_input_7             script_input_7
-     000000BF  ___bank_sound_legacy_0             sound_legacy_0
 ASxxxx Linker V03.00 + NoICE + sdld,  page 90.
 Hexadecimal  [32-Bits]
 
@@ -5346,6 +5346,9 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
+     000000BF  ___bank_script_input_57            script_input_57
+     000000BF  ___bank_script_input_7             script_input_7
+     000000BF  ___bank_sound_legacy_0             sound_legacy_0
      000000BF  ___bank_sound_legacy_1             sound_legacy_1
      000000BF  ___bank_sound_legacy_11            sound_legacy_11
      000000BF  ___bank_sound_legacy_12            sound_legacy_12
@@ -5374,7 +5377,7 @@ Area                                    Addr        Size        Decimal Bytes (A
      00000E4E  s__HOME                         
      00001280  ___size_SGB_border_chr             border
      0000197F  l__DATA                         
-     00001DB6  l__CODE_191                     
+     00001E11  l__CODE_191                     
      00002000  _rROMB0                            
      00002CDF  l__HOME                         
      00003000  _rROMB1                            
@@ -5394,9 +5397,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      00003FFE  l__CODE_151                     
      00003FFE  l__CODE_156                     
      00003FFE  l__CODE_177                     
-     00003FFE  l__CODE_182                     
-     00003FFE  l__CODE_21                      
-     00003FFE  l__CODE_22                      
 ASxxxx Linker V03.00 + NoICE + sdld,  page 91.
 Hexadecimal  [32-Bits]
 
@@ -5406,6 +5406,9 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
+     00003FFE  l__CODE_182                     
+     00003FFE  l__CODE_21                      
+     00003FFE  l__CODE_22                      
      00003FFE  l__CODE_25                      
      00003FFE  l__CODE_26                      
      00003FFE  l__CODE_33                      
@@ -5451,12 +5454,9 @@ Area                                    Addr        Size        Decimal Bytes (A
      00003FFF  l__CODE_176                     
      00003FFF  l__CODE_178                     
      00003FFF  l__CODE_18                      
-     00003FFF  l__CODE_190                     
      00003FFF  l__CODE_2                       
      00003FFF  l__CODE_20                      
      00003FFF  l__CODE_27                      
-     00003FFF  l__CODE_28                      
-     00003FFF  l__CODE_3                       
 ASxxxx Linker V03.00 + NoICE + sdld,  page 92.
 Hexadecimal  [32-Bits]
 
@@ -5466,6 +5466,8 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
+     00003FFF  l__CODE_28                      
+     00003FFF  l__CODE_3                       
      00003FFF  l__CODE_31                      
      00003FFF  l__CODE_32                      
      00003FFF  l__CODE_36                      
@@ -5515,8 +5517,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      00004000  l__CODE_144                     
      00004000  l__CODE_146                     
      00004000  l__CODE_147                     
-     00004000  l__CODE_148                     
-     00004000  l__CODE_149                     
 ASxxxx Linker V03.00 + NoICE + sdld,  page 93.
 Hexadecimal  [32-Bits]
 
@@ -5526,6 +5526,8 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
+     00004000  l__CODE_148                     
+     00004000  l__CODE_149                     
      00004000  l__CODE_15                      
      00004000  l__CODE_150                     
      00004000  l__CODE_154                     
@@ -5553,6 +5555,7 @@ Area                                    Addr        Size        Decimal Bytes (A
      00004000  l__CODE_188                     
      00004000  l__CODE_189                     
      00004000  l__CODE_19                      
+     00004000  l__CODE_190                     
      00004000  l__CODE_23                      
      00004000  l__CODE_24                      
      00004000  l__CODE_29                      
@@ -5574,9 +5577,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      00004000  l__CODE_53                      
      00004000  l__CODE_54                      
      00004000  l__CODE_57                      
-     00004000  l__CODE_58                      
-     00004000  l__CODE_59                      
-     00004000  l__CODE_60                      
 ASxxxx Linker V03.00 + NoICE + sdld,  page 94.
 Hexadecimal  [32-Bits]
 
@@ -5586,6 +5586,9 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
+     00004000  l__CODE_58                      
+     00004000  l__CODE_59                      
+     00004000  l__CODE_60                      
      00004000  l__CODE_61                      
      00004000  l__CODE_62                      
      00004000  l__CODE_63                      
@@ -5634,9 +5637,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      0000DFE0  _vwf_tile_data                     absolute
      0000FE00  __OAMRAM                           
      0000FF00  _P1_REG                            
-     0000FF00  __IO                               
-     0000FF01  _SB_REG                            
-     0000FF02  _SC_REG                            
 ASxxxx Linker V03.00 + NoICE + sdld,  page 95.
 Hexadecimal  [32-Bits]
 
@@ -5646,6 +5646,9 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
+     0000FF00  __IO                               
+     0000FF01  _SB_REG                            
+     0000FF02  _SC_REG                            
      0000FF04  _DIV_REG                           
      0000FF05  _TIMA_REG                          
      0000FF06  _TMA_REG                           
@@ -5694,9 +5697,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      0000FF53  _HDMA3_REG                         
      0000FF54  _HDMA4_REG                         
      0000FF55  _HDMA5_REG                         
-     0000FF56  _RP_REG                            
-     0000FF68  _BCPS_REG                          
-     0000FF69  _BCPD_REG                          
 ASxxxx Linker V03.00 + NoICE + sdld,  page 96.
 Hexadecimal  [32-Bits]
 
@@ -5706,6 +5706,9 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
+     0000FF56  _RP_REG                            
+     0000FF68  _BCPS_REG                          
+     0000FF69  _BCPD_REG                          
      0000FF6A  _OCPS_REG                          
      0000FF6B  _OCPD_REG                          
      0000FF70  _SVBK_REG                          
@@ -5754,9 +5757,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      00264000  s__CODE_38                      
      00274000  s__CODE_39                      
      00284000  s__CODE_40                      
-     00294000  s__CODE_41                      
-     002A4000  s__CODE_42                      
-     002B4000  s__CODE_43                      
 ASxxxx Linker V03.00 + NoICE + sdld,  page 97.
 Hexadecimal  [32-Bits]
 
@@ -5766,6 +5766,9 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
+     00294000  s__CODE_41                      
+     002A4000  s__CODE_42                      
+     002B4000  s__CODE_43                      
      002C4000  s__CODE_44                      
      002D4000  s__CODE_45                      
      002E4000  s__CODE_46                      
@@ -5814,9 +5817,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      00594000  s__CODE_89                      
      005A4000  s__CODE_90                      
      005B4000  s__CODE_91                      
-     005C4000  s__CODE_92                      
-     005D4000  s__CODE_93                      
-     005E4000  s__CODE_94                      
 ASxxxx Linker V03.00 + NoICE + sdld,  page 98.
 Hexadecimal  [32-Bits]
 
@@ -5826,6 +5826,9 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
+     005C4000  s__CODE_92                      
+     005D4000  s__CODE_93                      
+     005E4000  s__CODE_94                      
      005F4000  s__CODE_95                      
      00604000  s__CODE_96                      
      00614000  s__CODE_97                      
@@ -5874,9 +5877,6 @@ Area                                    Addr        Size        Decimal Bytes (A
      008C4000  s__CODE_140                     
      008D4000  s__CODE_141                     
      008E4000  s__CODE_142                     
-     008F4000  s__CODE_143                     
-     00904000  s__CODE_144                     
-     00914000  s__CODE_145                     
 ASxxxx Linker V03.00 + NoICE + sdld,  page 99.
 Hexadecimal  [32-Bits]
 
@@ -5886,6 +5886,9 @@ Area                                    Addr        Size        Decimal Bytes (A
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
+     008F4000  s__CODE_143                     
+     00904000  s__CODE_144                     
+     00914000  s__CODE_145                     
      00924000  s__CODE_146                     
      00934000  s__CODE_147                     
      00944000  s__CODE_148                     
@@ -7924,7 +7927,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_190                           00BE4000    00003FFF =       16383. bytes (REL,CON)
+_CODE_190                           00BE4000    00004000 =       16384. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -7983,7 +7986,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_190                           00BE4000    00003FFF =       16383. bytes (REL,CON)
+_CODE_190                           00BE4000    00004000 =       16384. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -8043,7 +8046,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_190                           00BE4000    00003FFF =       16383. bytes (REL,CON)
+_CODE_190                           00BE4000    00004000 =       16384. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -8078,418 +8081,419 @@ _CODE_190                           00BE4000    00003FFF =       16383. bytes (R
      00BE4DDE  _scene_285_init                    scene_285_init
      00BE4DFD  _scene_286_init                    scene_286_init
      00BE4E1C  _scene_287_init                    scene_287_init
-     00BE4E3B  _scene_305_init                    scene_305_init
-     00BE4E5A  _scene_307_init                    scene_307_init
-     00BE4E79  _scene_308_init                    scene_308_init
-     00BE4E98  _scene_309_init                    scene_309_init
-     00BE4EB7  _scene_310_init                    scene_310_init
-     00BE4ED6  _scene_311_init                    scene_311_init
-     00BE4EF5  _scene_312_init                    scene_312_init
-     00BE4F14  _scene_313_init                    scene_313_init
-     00BE4F33  _scene_319_init                    scene_319_init
-     00BE4F52  _scene_320_init                    scene_320_init
-     00BE4F71  _scene_323_init                    scene_323_init
-     00BE4F90  _scene_324_init                    scene_324_init
-     00BE4FAF  _scene_327_init                    scene_327_init
-     00BE4FCE  ___func_scene_33_triggers          scene_33_triggers
-     00BE4FCE  _scene_33_triggers                 scene_33_triggers
-     00BE4FEE  _scene_335_init                    scene_335_init
-     00BE500D  _scene_345_init                    scene_345_init
-     00BE502C  _scene_359_init                    scene_359_init
-     00BE504B  _scene_360_init                    scene_360_init
-     00BE506A  _scene_375_init                    scene_375_init
+     00BE4E3B  ___func_scene_294_sprites          scene_294_sprites
+     00BE4E3B  _scene_294_sprites                 scene_294_sprites
+     00BE4E4D  _scene_305_init                    scene_305_init
+     00BE4E6C  _scene_307_init                    scene_307_init
+     00BE4E8B  _scene_308_init                    scene_308_init
+     00BE4EAA  _scene_309_init                    scene_309_init
+     00BE4EC9  _scene_310_init                    scene_310_init
+     00BE4EE8  _scene_311_init                    scene_311_init
+     00BE4F07  _scene_312_init                    scene_312_init
+     00BE4F26  _scene_313_init                    scene_313_init
+     00BE4F45  _scene_319_init                    scene_319_init
+     00BE4F64  _scene_320_init                    scene_320_init
+     00BE4F83  _scene_323_init                    scene_323_init
+     00BE4FA2  _scene_324_init                    scene_324_init
+     00BE4FC1  _scene_327_init                    scene_327_init
+     00BE4FE0  ___func_scene_33_triggers          scene_33_triggers
+     00BE4FE0  _scene_33_triggers                 scene_33_triggers
+     00BE5000  _scene_335_init                    scene_335_init
+     00BE501F  _scene_345_init                    scene_345_init
+     00BE503E  _scene_359_init                    scene_359_init
 ASxxxx Linker V03.00 + NoICE + sdld,  page 168.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_190                           00BE4000    00003FFF =       16383. bytes (REL,CON)
+_CODE_190                           00BE4000    00004000 =       16384. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BE508A  _scene_39_init                     scene_39_init
-     00BE50A9  _scene_40_init                     scene_40_init
-     00BE50C8  ___func_scene_5_triggers           scene_5_triggers
-     00BE50C8  _scene_5_triggers                  scene_5_triggers
-     00BE50E8  ___func_scene_53_triggers          scene_53_triggers
-     00BE50E8  _scene_53_triggers                 scene_53_triggers
-     00BE5108  _scene_68_init                     scene_68_init
-     00BE5127  _scene_69_init                     scene_69_init
-     00BE5146  _scene_70_init                     scene_70_init
-     00BE5165  _scene_71_init                     scene_71_init
-     00BE5184  _scene_72_init                     scene_72_init
-     00BE51A3  ___func_scene_95_triggers          scene_95_triggers
-     00BE51A3  _scene_95_triggers                 scene_95_triggers
-     00BE51C3  ___func_scene_96_triggers          scene_96_triggers
-     00BE51C3  _scene_96_triggers                 scene_96_triggers
-     00BE51E3  ___func_scene_97_triggers          scene_97_triggers
-     00BE51E3  _scene_97_triggers                 scene_97_triggers
-     00BE5203  _script_input_12                   script_input_12
-     00BE5228  _script_input_50                   script_input_50
-     00BE524D  ___func_sound_legacy_13            sound_legacy_13
-     00BE524D  _sound_legacy_13                   sound_legacy_13
-     00BE5270  ___func_sound_legacy_21            sound_legacy_21
-     00BE5270  _sound_legacy_21                   sound_legacy_21
-     00BE5293  _trigger_259_interact              trigger_259_interact
-     00BE52B9  _trigger_26_interact               trigger_26_interact
-     00BE52DF  _trigger_261_interact              trigger_261_interact
-     00BE5305  _trigger_262_interact              trigger_262_interact
-     00BE532B  _trigger_263_interact              trigger_263_interact
-     00BE5351  _trigger_264_interact              trigger_264_interact
-     00BE5377  _trigger_265_interact              trigger_265_interact
-     00BE539D  _trigger_266_interact              trigger_266_interact
-     00BE53C3  _trigger_267_interact              trigger_267_interact
-     00BE53E9  _trigger_268_interact              trigger_268_interact
-     00BE540F  _trigger_269_interact              trigger_269_interact
-     00BE5435  _trigger_27_interact               trigger_27_interact
-     00BE545B  _trigger_279_interact              trigger_279_interact
-     00BE5481  _trigger_28_interact               trigger_28_interact
-     00BE54A7  _trigger_280_interact              trigger_280_interact
-     00BE54CD  _trigger_281_interact              trigger_281_interact
-     00BE54F3  _trigger_282_interact              trigger_282_interact
-     00BE5519  _trigger_283_interact              trigger_283_interact
-     00BE553F  _trigger_284_interact              trigger_284_interact
-     00BE5565  _trigger_286_interact              trigger_286_interact
-     00BE558B  _trigger_287_interact              trigger_287_interact
-     00BE55B1  _trigger_288_interact              trigger_288_interact
-     00BE55D7  _trigger_289_interact              trigger_289_interact
-     00BE55FD  _trigger_29_interact               trigger_29_interact
-     00BE5623  _trigger_290_interact              trigger_290_interact
-     00BE5649  _trigger_291_interact              trigger_291_interact
-     00BE566F  _trigger_292_interact              trigger_292_interact
-     00BE5695  _trigger_293_interact              trigger_293_interact
+     00BE505D  _scene_360_init                    scene_360_init
+     00BE507C  _scene_375_init                    scene_375_init
+     00BE509C  _scene_39_init                     scene_39_init
+     00BE50BB  _scene_40_init                     scene_40_init
+     00BE50DA  ___func_scene_5_triggers           scene_5_triggers
+     00BE50DA  _scene_5_triggers                  scene_5_triggers
+     00BE50FA  ___func_scene_53_triggers          scene_53_triggers
+     00BE50FA  _scene_53_triggers                 scene_53_triggers
+     00BE511A  _scene_68_init                     scene_68_init
+     00BE5139  _scene_69_init                     scene_69_init
+     00BE5158  ___func_scene_95_triggers          scene_95_triggers
+     00BE5158  _scene_95_triggers                 scene_95_triggers
+     00BE5178  ___func_scene_96_triggers          scene_96_triggers
+     00BE5178  _scene_96_triggers                 scene_96_triggers
+     00BE5198  ___func_scene_97_triggers          scene_97_triggers
+     00BE5198  _scene_97_triggers                 scene_97_triggers
+     00BE51B8  _script_input_12                   script_input_12
+     00BE51DD  _script_input_50                   script_input_50
+     00BE5202  ___func_sound_legacy_13            sound_legacy_13
+     00BE5202  _sound_legacy_13                   sound_legacy_13
+     00BE5225  ___func_sound_legacy_21            sound_legacy_21
+     00BE5225  _sound_legacy_21                   sound_legacy_21
+     00BE5248  _trigger_259_interact              trigger_259_interact
+     00BE526E  _trigger_26_interact               trigger_26_interact
+     00BE5294  _trigger_261_interact              trigger_261_interact
+     00BE52BA  _trigger_262_interact              trigger_262_interact
+     00BE52E0  _trigger_263_interact              trigger_263_interact
+     00BE5306  _trigger_264_interact              trigger_264_interact
+     00BE532C  _trigger_265_interact              trigger_265_interact
+     00BE5352  _trigger_266_interact              trigger_266_interact
+     00BE5378  _trigger_267_interact              trigger_267_interact
+     00BE539E  _trigger_268_interact              trigger_268_interact
+     00BE53C4  _trigger_269_interact              trigger_269_interact
+     00BE53EA  _trigger_27_interact               trigger_27_interact
+     00BE5410  _trigger_279_interact              trigger_279_interact
+     00BE5436  _trigger_28_interact               trigger_28_interact
+     00BE545C  _trigger_280_interact              trigger_280_interact
+     00BE5482  _trigger_281_interact              trigger_281_interact
+     00BE54A8  _trigger_282_interact              trigger_282_interact
+     00BE54CE  _trigger_283_interact              trigger_283_interact
+     00BE54F4  _trigger_284_interact              trigger_284_interact
+     00BE551A  _trigger_286_interact              trigger_286_interact
+     00BE5540  _trigger_287_interact              trigger_287_interact
+     00BE5566  _trigger_288_interact              trigger_288_interact
+     00BE558C  _trigger_289_interact              trigger_289_interact
+     00BE55B2  _trigger_29_interact               trigger_29_interact
+     00BE55D8  _trigger_290_interact              trigger_290_interact
+     00BE55FE  _trigger_291_interact              trigger_291_interact
+     00BE5624  _trigger_292_interact              trigger_292_interact
+     00BE564A  _trigger_293_interact              trigger_293_interact
+     00BE5670  _trigger_294_interact              trigger_294_interact
 ASxxxx Linker V03.00 + NoICE + sdld,  page 169.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_190                           00BE4000    00003FFF =       16383. bytes (REL,CON)
+_CODE_190                           00BE4000    00004000 =       16384. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BE56BB  _trigger_294_interact              trigger_294_interact
-     00BE56E1  _trigger_295_interact              trigger_295_interact
-     00BE5707  _trigger_296_interact              trigger_296_interact
-     00BE572D  _trigger_297_interact              trigger_297_interact
-     00BE5753  _trigger_298_interact              trigger_298_interact
-     00BE5779  _trigger_299_interact              trigger_299_interact
-     00BE579F  _trigger_3_interact                trigger_3_interact
-     00BE57C5  _trigger_30_interact               trigger_30_interact
-     00BE57EB  _trigger_300_interact              trigger_300_interact
-     00BE5811  _trigger_301_interact              trigger_301_interact
-     00BE5837  _trigger_302_interact              trigger_302_interact
-     00BE585D  _trigger_303_interact              trigger_303_interact
-     00BE5883  _trigger_304_interact              trigger_304_interact
-     00BE58A9  _trigger_305_interact              trigger_305_interact
-     00BE58CF  _trigger_306_interact              trigger_306_interact
-     00BE58F5  _trigger_307_interact              trigger_307_interact
-     00BE591B  _trigger_308_interact              trigger_308_interact
-     00BE5941  _trigger_309_interact              trigger_309_interact
-     00BE5967  _trigger_31_interact               trigger_31_interact
-     00BE598D  _trigger_310_interact              trigger_310_interact
-     00BE59B3  _trigger_311_interact              trigger_311_interact
-     00BE59D9  _trigger_312_interact              trigger_312_interact
-     00BE59FF  _trigger_313_interact              trigger_313_interact
-     00BE5A25  _trigger_314_interact              trigger_314_interact
-     00BE5A4B  _trigger_315_interact              trigger_315_interact
-     00BE5A71  _trigger_316_interact              trigger_316_interact
-     00BE5A97  _trigger_317_interact              trigger_317_interact
-     00BE5ABD  _trigger_318_interact              trigger_318_interact
-     00BE5AE3  _trigger_319_interact              trigger_319_interact
-     00BE5B09  _trigger_32_interact               trigger_32_interact
-     00BE5B2F  _trigger_320_interact              trigger_320_interact
-     00BE5B55  _trigger_321_interact              trigger_321_interact
-     00BE5B7B  _trigger_322_interact              trigger_322_interact
-     00BE5BA1  _trigger_323_interact              trigger_323_interact
-     00BE5BC7  _trigger_324_interact              trigger_324_interact
-     00BE5BED  _trigger_325_interact              trigger_325_interact
-     00BE5C13  _trigger_326_interact              trigger_326_interact
-     00BE5C39  _trigger_327_interact              trigger_327_interact
-     00BE5C5F  _trigger_329_interact              trigger_329_interact
-     00BE5C85  _trigger_33_interact               trigger_33_interact
-     00BE5CAB  _trigger_330_interact              trigger_330_interact
-     00BE5CD1  _trigger_34_interact               trigger_34_interact
-     00BE5CF7  _trigger_35_interact               trigger_35_interact
-     00BE5D1D  _trigger_355_interact              trigger_355_interact
-     00BE5D43  _trigger_356_interact              trigger_356_interact
-     00BE5D69  _trigger_357_interact              trigger_357_interact
-     00BE5D8F  _trigger_358_interact              trigger_358_interact
-     00BE5DB5  _trigger_36_interact               trigger_36_interact
-     00BE5DDB  _trigger_361_interact              trigger_361_interact
-     00BE5E01  _trigger_362_interact              trigger_362_interact
-     00BE5E27  _trigger_364_interact              trigger_364_interact
+     00BE5696  _trigger_295_interact              trigger_295_interact
+     00BE56BC  _trigger_296_interact              trigger_296_interact
+     00BE56E2  _trigger_297_interact              trigger_297_interact
+     00BE5708  _trigger_298_interact              trigger_298_interact
+     00BE572E  _trigger_299_interact              trigger_299_interact
+     00BE5754  _trigger_3_interact                trigger_3_interact
+     00BE577A  _trigger_30_interact               trigger_30_interact
+     00BE57A0  _trigger_300_interact              trigger_300_interact
+     00BE57C6  _trigger_301_interact              trigger_301_interact
+     00BE57EC  _trigger_302_interact              trigger_302_interact
+     00BE5812  _trigger_303_interact              trigger_303_interact
+     00BE5838  _trigger_304_interact              trigger_304_interact
+     00BE585E  _trigger_305_interact              trigger_305_interact
+     00BE5884  _trigger_306_interact              trigger_306_interact
+     00BE58AA  _trigger_307_interact              trigger_307_interact
+     00BE58D0  _trigger_308_interact              trigger_308_interact
+     00BE58F6  _trigger_309_interact              trigger_309_interact
+     00BE591C  _trigger_31_interact               trigger_31_interact
+     00BE5942  _trigger_310_interact              trigger_310_interact
+     00BE5968  _trigger_311_interact              trigger_311_interact
+     00BE598E  _trigger_312_interact              trigger_312_interact
+     00BE59B4  _trigger_313_interact              trigger_313_interact
+     00BE59DA  _trigger_314_interact              trigger_314_interact
+     00BE5A00  _trigger_315_interact              trigger_315_interact
+     00BE5A26  _trigger_316_interact              trigger_316_interact
+     00BE5A4C  _trigger_317_interact              trigger_317_interact
+     00BE5A72  _trigger_318_interact              trigger_318_interact
+     00BE5A98  _trigger_319_interact              trigger_319_interact
+     00BE5ABE  _trigger_32_interact               trigger_32_interact
+     00BE5AE4  _trigger_320_interact              trigger_320_interact
+     00BE5B0A  _trigger_321_interact              trigger_321_interact
+     00BE5B30  _trigger_322_interact              trigger_322_interact
+     00BE5B56  _trigger_323_interact              trigger_323_interact
+     00BE5B7C  _trigger_324_interact              trigger_324_interact
+     00BE5BA2  _trigger_325_interact              trigger_325_interact
+     00BE5BC8  _trigger_326_interact              trigger_326_interact
+     00BE5BEE  _trigger_327_interact              trigger_327_interact
+     00BE5C14  _trigger_329_interact              trigger_329_interact
+     00BE5C3A  _trigger_33_interact               trigger_33_interact
+     00BE5C60  _trigger_330_interact              trigger_330_interact
+     00BE5C86  _trigger_34_interact               trigger_34_interact
+     00BE5CAC  _trigger_35_interact               trigger_35_interact
+     00BE5CD2  _trigger_355_interact              trigger_355_interact
+     00BE5CF8  _trigger_356_interact              trigger_356_interact
+     00BE5D1E  _trigger_357_interact              trigger_357_interact
+     00BE5D44  _trigger_358_interact              trigger_358_interact
+     00BE5D6A  _trigger_36_interact               trigger_36_interact
+     00BE5D90  _trigger_361_interact              trigger_361_interact
+     00BE5DB6  _trigger_362_interact              trigger_362_interact
+     00BE5DDC  _trigger_364_interact              trigger_364_interact
+     00BE5E02  _trigger_365_interact              trigger_365_interact
 ASxxxx Linker V03.00 + NoICE + sdld,  page 170.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_190                           00BE4000    00003FFF =       16383. bytes (REL,CON)
+_CODE_190                           00BE4000    00004000 =       16384. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BE5E4D  _trigger_365_interact              trigger_365_interact
-     00BE5E73  _trigger_366_interact              trigger_366_interact
-     00BE5E99  _trigger_367_interact              trigger_367_interact
-     00BE5EBF  _trigger_368_interact              trigger_368_interact
-     00BE5EE5  _trigger_369_interact              trigger_369_interact
-     00BE5F0B  _trigger_370_interact              trigger_370_interact
-     00BE5F31  _trigger_371_interact              trigger_371_interact
-     00BE5F57  _trigger_372_interact              trigger_372_interact
-     00BE5F7D  _trigger_373_interact              trigger_373_interact
-     00BE5FA3  _trigger_374_interact              trigger_374_interact
-     00BE5FC9  _trigger_375_interact              trigger_375_interact
-     00BE5FEF  _trigger_376_interact              trigger_376_interact
-     00BE6015  _trigger_377_interact              trigger_377_interact
-     00BE603B  _trigger_378_interact              trigger_378_interact
-     00BE6061  _trigger_379_interact              trigger_379_interact
-     00BE6087  _trigger_380_interact              trigger_380_interact
-     00BE60AD  _trigger_381_interact              trigger_381_interact
-     00BE60D3  _trigger_382_interact              trigger_382_interact
-     00BE60F9  _trigger_388_interact              trigger_388_interact
-     00BE611F  _trigger_389_interact              trigger_389_interact
-     00BE6145  _trigger_390_interact              trigger_390_interact
-     00BE616B  _trigger_391_interact              trigger_391_interact
-     00BE6191  _trigger_392_interact              trigger_392_interact
-     00BE61B7  _trigger_393_interact              trigger_393_interact
-     00BE61DD  _trigger_394_interact              trigger_394_interact
-     00BE6203  _trigger_395_interact              trigger_395_interact
-     00BE6229  _trigger_4_interact                trigger_4_interact
-     00BE624F  _trigger_40_interact               trigger_40_interact
-     00BE6275  _trigger_400_interact              trigger_400_interact
-     00BE629B  _trigger_401_interact              trigger_401_interact
-     00BE62C1  _trigger_402_interact              trigger_402_interact
-     00BE62E7  _trigger_403_interact              trigger_403_interact
-     00BE630D  _trigger_404_interact              trigger_404_interact
-     00BE6333  _trigger_405_interact              trigger_405_interact
-     00BE6359  _trigger_406_interact              trigger_406_interact
-     00BE637F  _trigger_407_interact              trigger_407_interact
-     00BE63A5  _trigger_408_interact              trigger_408_interact
-     00BE63CB  _trigger_409_interact              trigger_409_interact
-     00BE63F1  _trigger_41_interact               trigger_41_interact
-     00BE6417  _trigger_410_interact              trigger_410_interact
-     00BE643D  _trigger_411_interact              trigger_411_interact
-     00BE6463  _trigger_412_interact              trigger_412_interact
-     00BE6489  _trigger_413_interact              trigger_413_interact
-     00BE64AF  _trigger_414_interact              trigger_414_interact
-     00BE64D5  _trigger_415_interact              trigger_415_interact
-     00BE64FB  _trigger_416_interact              trigger_416_interact
-     00BE6521  _trigger_417_interact              trigger_417_interact
-     00BE6547  _trigger_418_interact              trigger_418_interact
-     00BE656D  _trigger_419_interact              trigger_419_interact
-     00BE6593  _trigger_42_interact               trigger_42_interact
-     00BE65B9  _trigger_420_interact              trigger_420_interact
+     00BE5E28  _trigger_366_interact              trigger_366_interact
+     00BE5E4E  _trigger_367_interact              trigger_367_interact
+     00BE5E74  _trigger_368_interact              trigger_368_interact
+     00BE5E9A  _trigger_369_interact              trigger_369_interact
+     00BE5EC0  _trigger_370_interact              trigger_370_interact
+     00BE5EE6  _trigger_371_interact              trigger_371_interact
+     00BE5F0C  _trigger_372_interact              trigger_372_interact
+     00BE5F32  _trigger_373_interact              trigger_373_interact
+     00BE5F58  _trigger_374_interact              trigger_374_interact
+     00BE5F7E  _trigger_375_interact              trigger_375_interact
+     00BE5FA4  _trigger_376_interact              trigger_376_interact
+     00BE5FCA  _trigger_377_interact              trigger_377_interact
+     00BE5FF0  _trigger_378_interact              trigger_378_interact
+     00BE6016  _trigger_379_interact              trigger_379_interact
+     00BE603C  _trigger_380_interact              trigger_380_interact
+     00BE6062  _trigger_381_interact              trigger_381_interact
+     00BE6088  _trigger_382_interact              trigger_382_interact
+     00BE60AE  _trigger_388_interact              trigger_388_interact
+     00BE60D4  _trigger_389_interact              trigger_389_interact
+     00BE60FA  _trigger_390_interact              trigger_390_interact
+     00BE6120  _trigger_391_interact              trigger_391_interact
+     00BE6146  _trigger_392_interact              trigger_392_interact
+     00BE616C  _trigger_393_interact              trigger_393_interact
+     00BE6192  _trigger_394_interact              trigger_394_interact
+     00BE61B8  _trigger_395_interact              trigger_395_interact
+     00BE61DE  _trigger_4_interact                trigger_4_interact
+     00BE6204  _trigger_40_interact               trigger_40_interact
+     00BE622A  _trigger_400_interact              trigger_400_interact
+     00BE6250  _trigger_401_interact              trigger_401_interact
+     00BE6276  _trigger_402_interact              trigger_402_interact
+     00BE629C  _trigger_403_interact              trigger_403_interact
+     00BE62C2  _trigger_404_interact              trigger_404_interact
+     00BE62E8  _trigger_405_interact              trigger_405_interact
+     00BE630E  _trigger_406_interact              trigger_406_interact
+     00BE6334  _trigger_407_interact              trigger_407_interact
+     00BE635A  _trigger_408_interact              trigger_408_interact
+     00BE6380  _trigger_409_interact              trigger_409_interact
+     00BE63A6  _trigger_41_interact               trigger_41_interact
+     00BE63CC  _trigger_410_interact              trigger_410_interact
+     00BE63F2  _trigger_411_interact              trigger_411_interact
+     00BE6418  _trigger_412_interact              trigger_412_interact
+     00BE643E  _trigger_413_interact              trigger_413_interact
+     00BE6464  _trigger_414_interact              trigger_414_interact
+     00BE648A  _trigger_415_interact              trigger_415_interact
+     00BE64B0  _trigger_416_interact              trigger_416_interact
+     00BE64D6  _trigger_417_interact              trigger_417_interact
+     00BE64FC  _trigger_418_interact              trigger_418_interact
+     00BE6522  _trigger_419_interact              trigger_419_interact
+     00BE6548  _trigger_42_interact               trigger_42_interact
+     00BE656E  _trigger_420_interact              trigger_420_interact
+     00BE6594  _trigger_421_interact              trigger_421_interact
 ASxxxx Linker V03.00 + NoICE + sdld,  page 171.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_190                           00BE4000    00003FFF =       16383. bytes (REL,CON)
+_CODE_190                           00BE4000    00004000 =       16384. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BE65DF  _trigger_421_interact              trigger_421_interact
-     00BE6605  _trigger_422_interact              trigger_422_interact
-     00BE662B  _trigger_43_interact               trigger_43_interact
-     00BE6651  _trigger_431_interact              trigger_431_interact
-     00BE6677  _trigger_432_interact              trigger_432_interact
-     00BE669D  _trigger_434_interact              trigger_434_interact
-     00BE66C3  _trigger_435_interact              trigger_435_interact
-     00BE66E9  _trigger_436_interact              trigger_436_interact
-     00BE670F  _trigger_437_interact              trigger_437_interact
-     00BE6735  _trigger_438_interact              trigger_438_interact
-     00BE675B  _trigger_439_interact              trigger_439_interact
-     00BE6781  _trigger_44_interact               trigger_44_interact
-     00BE67A7  _trigger_440_interact              trigger_440_interact
-     00BE67CD  _trigger_441_interact              trigger_441_interact
-     00BE67F3  _trigger_442_interact              trigger_442_interact
-     00BE6819  _trigger_443_interact              trigger_443_interact
-     00BE683F  _trigger_444_interact              trigger_444_interact
-     00BE6865  _trigger_445_interact              trigger_445_interact
-     00BE688B  _trigger_446_interact              trigger_446_interact
-     00BE68B1  _trigger_447_interact              trigger_447_interact
-     00BE68D7  _trigger_448_interact              trigger_448_interact
-     00BE68FD  _trigger_449_interact              trigger_449_interact
-     00BE6923  _trigger_45_interact               trigger_45_interact
-     00BE6949  _trigger_450_interact              trigger_450_interact
-     00BE696F  _trigger_451_interact              trigger_451_interact
-     00BE6995  _trigger_452_interact              trigger_452_interact
-     00BE69BB  _trigger_453_interact              trigger_453_interact
-     00BE69E1  _trigger_454_interact              trigger_454_interact
-     00BE6A07  _trigger_455_interact              trigger_455_interact
-     00BE6A2D  _trigger_456_interact              trigger_456_interact
-     00BE6A53  _trigger_457_interact              trigger_457_interact
-     00BE6A79  _trigger_458_interact              trigger_458_interact
-     00BE6A9F  _trigger_459_interact              trigger_459_interact
-     00BE6AC5  _trigger_46_interact               trigger_46_interact
-     00BE6AEB  _trigger_460_interact              trigger_460_interact
-     00BE6B11  _trigger_461_interact              trigger_461_interact
-     00BE6B37  _trigger_462_interact              trigger_462_interact
-     00BE6B5D  _trigger_463_interact              trigger_463_interact
-     00BE6B83  _trigger_464_interact              trigger_464_interact
-     00BE6BA9  _trigger_465_interact              trigger_465_interact
-     00BE6BCF  _trigger_466_interact              trigger_466_interact
-     00BE6BF5  _trigger_467_interact              trigger_467_interact
-     00BE6C1B  _trigger_468_interact              trigger_468_interact
-     00BE6C41  _trigger_469_interact              trigger_469_interact
-     00BE6C67  _trigger_47_interact               trigger_47_interact
-     00BE6C8D  _trigger_470_interact              trigger_470_interact
-     00BE6CB3  _trigger_471_interact              trigger_471_interact
-     00BE6CD9  _trigger_472_interact              trigger_472_interact
-     00BE6CFF  _trigger_473_interact              trigger_473_interact
-     00BE6D25  _trigger_486_interact              trigger_486_interact
-     00BE6D4B  _trigger_487_interact              trigger_487_interact
+     00BE65BA  _trigger_422_interact              trigger_422_interact
+     00BE65E0  _trigger_43_interact               trigger_43_interact
+     00BE6606  _trigger_431_interact              trigger_431_interact
+     00BE662C  _trigger_432_interact              trigger_432_interact
+     00BE6652  _trigger_433_interact              trigger_433_interact
+     00BE6678  _trigger_434_interact              trigger_434_interact
+     00BE669E  _trigger_435_interact              trigger_435_interact
+     00BE66C4  _trigger_436_interact              trigger_436_interact
+     00BE66EA  _trigger_437_interact              trigger_437_interact
+     00BE6710  _trigger_438_interact              trigger_438_interact
+     00BE6736  _trigger_439_interact              trigger_439_interact
+     00BE675C  _trigger_44_interact               trigger_44_interact
+     00BE6782  _trigger_440_interact              trigger_440_interact
+     00BE67A8  _trigger_441_interact              trigger_441_interact
+     00BE67CE  _trigger_442_interact              trigger_442_interact
+     00BE67F4  _trigger_443_interact              trigger_443_interact
+     00BE681A  _trigger_444_interact              trigger_444_interact
+     00BE6840  _trigger_445_interact              trigger_445_interact
+     00BE6866  _trigger_446_interact              trigger_446_interact
+     00BE688C  _trigger_447_interact              trigger_447_interact
+     00BE68B2  _trigger_448_interact              trigger_448_interact
+     00BE68D8  _trigger_449_interact              trigger_449_interact
+     00BE68FE  _trigger_45_interact               trigger_45_interact
+     00BE6924  _trigger_450_interact              trigger_450_interact
+     00BE694A  _trigger_451_interact              trigger_451_interact
+     00BE6970  _trigger_452_interact              trigger_452_interact
+     00BE6996  _trigger_453_interact              trigger_453_interact
+     00BE69BC  _trigger_454_interact              trigger_454_interact
+     00BE69E2  _trigger_455_interact              trigger_455_interact
+     00BE6A08  _trigger_456_interact              trigger_456_interact
+     00BE6A2E  _trigger_457_interact              trigger_457_interact
+     00BE6A54  _trigger_458_interact              trigger_458_interact
+     00BE6A7A  _trigger_459_interact              trigger_459_interact
+     00BE6AA0  _trigger_46_interact               trigger_46_interact
+     00BE6AC6  _trigger_460_interact              trigger_460_interact
+     00BE6AEC  _trigger_461_interact              trigger_461_interact
+     00BE6B12  _trigger_462_interact              trigger_462_interact
+     00BE6B38  _trigger_463_interact              trigger_463_interact
+     00BE6B5E  _trigger_464_interact              trigger_464_interact
+     00BE6B84  _trigger_465_interact              trigger_465_interact
+     00BE6BAA  _trigger_466_interact              trigger_466_interact
+     00BE6BD0  _trigger_467_interact              trigger_467_interact
+     00BE6BF6  _trigger_468_interact              trigger_468_interact
+     00BE6C1C  _trigger_469_interact              trigger_469_interact
+     00BE6C42  _trigger_47_interact               trigger_47_interact
+     00BE6C68  _trigger_470_interact              trigger_470_interact
+     00BE6C8E  _trigger_471_interact              trigger_471_interact
+     00BE6CB4  _trigger_472_interact              trigger_472_interact
+     00BE6CDA  _trigger_473_interact              trigger_473_interact
+     00BE6D00  _trigger_486_interact              trigger_486_interact
+     00BE6D26  _trigger_487_interact              trigger_487_interact
 ASxxxx Linker V03.00 + NoICE + sdld,  page 172.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_190                           00BE4000    00003FFF =       16383. bytes (REL,CON)
+_CODE_190                           00BE4000    00004000 =       16384. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BE6D71  _trigger_488_interact              trigger_488_interact
-     00BE6D97  _trigger_489_interact              trigger_489_interact
-     00BE6DBD  _trigger_49_interact               trigger_49_interact
-     00BE6DE3  _trigger_490_interact              trigger_490_interact
-     00BE6E09  _trigger_491_interact              trigger_491_interact
-     00BE6E2F  _trigger_492_interact              trigger_492_interact
-     00BE6E55  _trigger_493_interact              trigger_493_interact
-     00BE6E7B  _trigger_494_interact              trigger_494_interact
-     00BE6EA1  _trigger_495_interact              trigger_495_interact
-     00BE6EC7  _trigger_496_interact              trigger_496_interact
-     00BE6EED  _trigger_497_interact              trigger_497_interact
-     00BE6F13  _trigger_5_interact                trigger_5_interact
-     00BE6F39  _trigger_50_interact               trigger_50_interact
-     00BE6F5F  _trigger_500_interact              trigger_500_interact
-     00BE6F85  _trigger_502_interact              trigger_502_interact
-     00BE6FAB  _trigger_504_interact              trigger_504_interact
-     00BE6FD1  _trigger_505_interact              trigger_505_interact
-     00BE6FF7  _trigger_506_interact              trigger_506_interact
-     00BE701D  _trigger_507_interact              trigger_507_interact
-     00BE7043  _trigger_508_interact              trigger_508_interact
-     00BE7069  _trigger_509_interact              trigger_509_interact
-     00BE708F  _trigger_51_interact               trigger_51_interact
-     00BE70B5  _trigger_510_interact              trigger_510_interact
-     00BE70DB  _trigger_511_interact              trigger_511_interact
-     00BE7101  _trigger_512_interact              trigger_512_interact
-     00BE7127  _trigger_513_interact              trigger_513_interact
-     00BE714D  _trigger_514_interact              trigger_514_interact
-     00BE7173  _trigger_515_interact              trigger_515_interact
-     00BE7199  _trigger_516_interact              trigger_516_interact
-     00BE71BF  _trigger_517_interact              trigger_517_interact
-     00BE71E5  _trigger_518_interact              trigger_518_interact
-     00BE720B  _trigger_519_interact              trigger_519_interact
-     00BE7231  _trigger_52_interact               trigger_52_interact
-     00BE7257  _trigger_520_interact              trigger_520_interact
-     00BE727D  _trigger_521_interact              trigger_521_interact
-     00BE72A3  _trigger_522_interact              trigger_522_interact
-     00BE72C9  _trigger_523_interact              trigger_523_interact
-     00BE72EF  _trigger_526_interact              trigger_526_interact
-     00BE7315  _trigger_527_interact              trigger_527_interact
-     00BE733B  _trigger_528_interact              trigger_528_interact
-     00BE7361  _trigger_529_interact              trigger_529_interact
-     00BE7387  _trigger_53_interact               trigger_53_interact
-     00BE73AD  _trigger_530_interact              trigger_530_interact
-     00BE73D3  _trigger_531_interact              trigger_531_interact
-     00BE73F9  _trigger_532_interact              trigger_532_interact
-     00BE741F  _trigger_533_interact              trigger_533_interact
-     00BE7445  _trigger_534_interact              trigger_534_interact
-     00BE746B  _trigger_535_interact              trigger_535_interact
-     00BE7491  _trigger_536_interact              trigger_536_interact
-     00BE74B7  _trigger_537_interact              trigger_537_interact
-     00BE74DD  _trigger_538_interact              trigger_538_interact
+     00BE6D4C  _trigger_488_interact              trigger_488_interact
+     00BE6D72  _trigger_489_interact              trigger_489_interact
+     00BE6D98  _trigger_49_interact               trigger_49_interact
+     00BE6DBE  _trigger_490_interact              trigger_490_interact
+     00BE6DE4  _trigger_491_interact              trigger_491_interact
+     00BE6E0A  _trigger_492_interact              trigger_492_interact
+     00BE6E30  _trigger_493_interact              trigger_493_interact
+     00BE6E56  _trigger_494_interact              trigger_494_interact
+     00BE6E7C  _trigger_495_interact              trigger_495_interact
+     00BE6EA2  _trigger_496_interact              trigger_496_interact
+     00BE6EC8  _trigger_497_interact              trigger_497_interact
+     00BE6EEE  _trigger_5_interact                trigger_5_interact
+     00BE6F14  _trigger_50_interact               trigger_50_interact
+     00BE6F3A  _trigger_500_interact              trigger_500_interact
+     00BE6F60  _trigger_502_interact              trigger_502_interact
+     00BE6F86  _trigger_504_interact              trigger_504_interact
+     00BE6FAC  _trigger_505_interact              trigger_505_interact
+     00BE6FD2  _trigger_506_interact              trigger_506_interact
+     00BE6FF8  _trigger_507_interact              trigger_507_interact
+     00BE701E  _trigger_508_interact              trigger_508_interact
+     00BE7044  _trigger_509_interact              trigger_509_interact
+     00BE706A  _trigger_51_interact               trigger_51_interact
+     00BE7090  _trigger_510_interact              trigger_510_interact
+     00BE70B6  _trigger_511_interact              trigger_511_interact
+     00BE70DC  _trigger_512_interact              trigger_512_interact
+     00BE7102  _trigger_513_interact              trigger_513_interact
+     00BE7128  _trigger_514_interact              trigger_514_interact
+     00BE714E  _trigger_515_interact              trigger_515_interact
+     00BE7174  _trigger_516_interact              trigger_516_interact
+     00BE719A  _trigger_517_interact              trigger_517_interact
+     00BE71C0  _trigger_518_interact              trigger_518_interact
+     00BE71E6  _trigger_519_interact              trigger_519_interact
+     00BE720C  _trigger_52_interact               trigger_52_interact
+     00BE7232  _trigger_520_interact              trigger_520_interact
+     00BE7258  _trigger_521_interact              trigger_521_interact
+     00BE727E  _trigger_522_interact              trigger_522_interact
+     00BE72A4  _trigger_523_interact              trigger_523_interact
+     00BE72CA  _trigger_526_interact              trigger_526_interact
+     00BE72F0  _trigger_527_interact              trigger_527_interact
+     00BE7316  _trigger_528_interact              trigger_528_interact
+     00BE733C  _trigger_529_interact              trigger_529_interact
+     00BE7362  _trigger_53_interact               trigger_53_interact
+     00BE7388  _trigger_530_interact              trigger_530_interact
+     00BE73AE  _trigger_531_interact              trigger_531_interact
+     00BE73D4  _trigger_532_interact              trigger_532_interact
+     00BE73FA  _trigger_533_interact              trigger_533_interact
+     00BE7420  _trigger_534_interact              trigger_534_interact
+     00BE7446  _trigger_535_interact              trigger_535_interact
+     00BE746C  _trigger_536_interact              trigger_536_interact
+     00BE7492  _trigger_537_interact              trigger_537_interact
+     00BE74B8  _trigger_538_interact              trigger_538_interact
 ASxxxx Linker V03.00 + NoICE + sdld,  page 173.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_190                           00BE4000    00003FFF =       16383. bytes (REL,CON)
+_CODE_190                           00BE4000    00004000 =       16384. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BE7503  _trigger_539_interact              trigger_539_interact
-     00BE7529  _trigger_54_interact               trigger_54_interact
-     00BE754F  _trigger_540_interact              trigger_540_interact
-     00BE7575  _trigger_541_interact              trigger_541_interact
-     00BE759B  _trigger_542_interact              trigger_542_interact
-     00BE75C1  _trigger_543_interact              trigger_543_interact
-     00BE75E7  _trigger_55_interact               trigger_55_interact
-     00BE760D  _trigger_556_interact              trigger_556_interact
-     00BE7633  _trigger_557_interact              trigger_557_interact
-     00BE7659  _trigger_56_interact               trigger_56_interact
-     00BE767F  _trigger_561_interact              trigger_561_interact
-     00BE76A5  _trigger_562_interact              trigger_562_interact
-     00BE76CB  _trigger_563_interact              trigger_563_interact
-     00BE76F1  _trigger_564_interact              trigger_564_interact
-     00BE7717  _trigger_565_interact              trigger_565_interact
-     00BE773D  _trigger_567_interact              trigger_567_interact
-     00BE7763  _trigger_568_interact              trigger_568_interact
-     00BE7789  _trigger_569_interact              trigger_569_interact
-     00BE77AF  _trigger_57_interact               trigger_57_interact
-     00BE77D5  _trigger_571_interact              trigger_571_interact
-     00BE77FB  _trigger_572_interact              trigger_572_interact
-     00BE7821  _trigger_573_interact              trigger_573_interact
-     00BE7847  _trigger_574_interact              trigger_574_interact
-     00BE786D  _trigger_575_interact              trigger_575_interact
-     00BE7893  _trigger_576_interact              trigger_576_interact
-     00BE78B9  _trigger_577_interact              trigger_577_interact
-     00BE78DF  _trigger_58_interact               trigger_58_interact
-     00BE7905  _trigger_583_interact              trigger_583_interact
-     00BE792B  _trigger_584_interact              trigger_584_interact
-     00BE7951  _trigger_585_interact              trigger_585_interact
-     00BE7977  _trigger_586_interact              trigger_586_interact
-     00BE799D  _trigger_587_interact              trigger_587_interact
-     00BE79C3  _trigger_588_interact              trigger_588_interact
-     00BE79E9  _trigger_589_interact              trigger_589_interact
-     00BE7A0F  _trigger_59_interact               trigger_59_interact
-     00BE7A35  _trigger_6_interact                trigger_6_interact
-     00BE7A5B  _trigger_60_interact               trigger_60_interact
-     00BE7A81  _trigger_61_interact               trigger_61_interact
-     00BE7AA7  _trigger_62_interact               trigger_62_interact
-     00BE7ACD  _trigger_63_interact               trigger_63_interact
-     00BE7AF3  _trigger_64_interact               trigger_64_interact
-     00BE7B19  _trigger_65_interact               trigger_65_interact
-     00BE7B3F  _trigger_66_interact               trigger_66_interact
-     00BE7B65  _trigger_7_interact                trigger_7_interact
-     00BE7B8B  _trigger_71_interact               trigger_71_interact
-     00BE7BB1  _trigger_72_interact               trigger_72_interact
-     00BE7BD7  _trigger_73_interact               trigger_73_interact
-     00BE7BFD  _trigger_74_interact               trigger_74_interact
-     00BE7C23  _trigger_75_interact               trigger_75_interact
-     00BE7C49  _trigger_76_interact               trigger_76_interact
-     00BE7C6F  _trigger_77_interact               trigger_77_interact
+     00BE74DE  _trigger_539_interact              trigger_539_interact
+     00BE7504  _trigger_54_interact               trigger_54_interact
+     00BE752A  _trigger_540_interact              trigger_540_interact
+     00BE7550  _trigger_541_interact              trigger_541_interact
+     00BE7576  _trigger_542_interact              trigger_542_interact
+     00BE759C  _trigger_543_interact              trigger_543_interact
+     00BE75C2  _trigger_55_interact               trigger_55_interact
+     00BE75E8  _trigger_556_interact              trigger_556_interact
+     00BE760E  _trigger_557_interact              trigger_557_interact
+     00BE7634  _trigger_56_interact               trigger_56_interact
+     00BE765A  _trigger_561_interact              trigger_561_interact
+     00BE7680  _trigger_562_interact              trigger_562_interact
+     00BE76A6  _trigger_563_interact              trigger_563_interact
+     00BE76CC  _trigger_564_interact              trigger_564_interact
+     00BE76F2  _trigger_565_interact              trigger_565_interact
+     00BE7718  _trigger_567_interact              trigger_567_interact
+     00BE773E  _trigger_568_interact              trigger_568_interact
+     00BE7764  _trigger_569_interact              trigger_569_interact
+     00BE778A  _trigger_57_interact               trigger_57_interact
+     00BE77B0  _trigger_571_interact              trigger_571_interact
+     00BE77D6  _trigger_572_interact              trigger_572_interact
+     00BE77FC  _trigger_573_interact              trigger_573_interact
+     00BE7822  _trigger_574_interact              trigger_574_interact
+     00BE7848  _trigger_575_interact              trigger_575_interact
+     00BE786E  _trigger_576_interact              trigger_576_interact
+     00BE7894  _trigger_577_interact              trigger_577_interact
+     00BE78BA  _trigger_58_interact               trigger_58_interact
+     00BE78E0  _trigger_583_interact              trigger_583_interact
+     00BE7906  _trigger_584_interact              trigger_584_interact
+     00BE792C  _trigger_585_interact              trigger_585_interact
+     00BE7952  _trigger_586_interact              trigger_586_interact
+     00BE7978  _trigger_587_interact              trigger_587_interact
+     00BE799E  _trigger_588_interact              trigger_588_interact
+     00BE79C4  _trigger_589_interact              trigger_589_interact
+     00BE79EA  _trigger_59_interact               trigger_59_interact
+     00BE7A10  _trigger_590_interact              trigger_590_interact
+     00BE7A36  _trigger_6_interact                trigger_6_interact
+     00BE7A5C  _trigger_60_interact               trigger_60_interact
+     00BE7A82  _trigger_61_interact               trigger_61_interact
+     00BE7AA8  _trigger_62_interact               trigger_62_interact
+     00BE7ACE  _trigger_63_interact               trigger_63_interact
+     00BE7AF4  _trigger_64_interact               trigger_64_interact
+     00BE7B1A  _trigger_65_interact               trigger_65_interact
+     00BE7B40  _trigger_66_interact               trigger_66_interact
+     00BE7B66  _trigger_7_interact                trigger_7_interact
+     00BE7B8C  _trigger_71_interact               trigger_71_interact
+     00BE7BB2  _trigger_72_interact               trigger_72_interact
+     00BE7BD8  _trigger_73_interact               trigger_73_interact
+     00BE7BFE  _trigger_74_interact               trigger_74_interact
+     00BE7C24  _trigger_75_interact               trigger_75_interact
+     00BE7C4A  _trigger_76_interact               trigger_76_interact
 ASxxxx Linker V03.00 + NoICE + sdld,  page 174.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_190                           00BE4000    00003FFF =       16383. bytes (REL,CON)
+_CODE_190                           00BE4000    00004000 =       16384. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BE7C95  _trigger_78_interact               trigger_78_interact
-     00BE7CBB  _trigger_79_interact               trigger_79_interact
-     00BE7CE1  _trigger_8_interact                trigger_8_interact
-     00BE7D07  _trigger_80_interact               trigger_80_interact
-     00BE7D2D  _trigger_81_interact               trigger_81_interact
-     00BE7D53  _trigger_82_interact               trigger_82_interact
-     00BE7D79  _trigger_83_interact               trigger_83_interact
-     00BE7D9F  _trigger_84_interact               trigger_84_interact
-     00BE7DC5  _trigger_85_interact               trigger_85_interact
-     00BE7DEB  _trigger_86_interact               trigger_86_interact
-     00BE7E11  _trigger_87_interact               trigger_87_interact
-     00BE7E37  _trigger_88_interact               trigger_88_interact
-     00BE7E5D  _trigger_89_interact               trigger_89_interact
-     00BE7E83  _trigger_9_interact                trigger_9_interact
-     00BE7EA9  _trigger_90_interact               trigger_90_interact
-     00BE7ECF  _trigger_91_interact               trigger_91_interact
-     00BE7EF5  _trigger_92_interact               trigger_92_interact
-     00BE7F1B  _trigger_93_interact               trigger_93_interact
-     00BE7F41  _trigger_94_interact               trigger_94_interact
-     00BE7F67  _trigger_95_interact               trigger_95_interact
-     00BE7F8D  _trigger_96_interact               trigger_96_interact
-     00BE7FB3  _trigger_97_interact               trigger_97_interact
-     00BE7FD9  _trigger_99_interact               trigger_99_interact
+     00BE7C70  _trigger_77_interact               trigger_77_interact
+     00BE7C96  _trigger_78_interact               trigger_78_interact
+     00BE7CBC  _trigger_79_interact               trigger_79_interact
+     00BE7CE2  _trigger_8_interact                trigger_8_interact
+     00BE7D08  _trigger_80_interact               trigger_80_interact
+     00BE7D2E  _trigger_81_interact               trigger_81_interact
+     00BE7D54  _trigger_82_interact               trigger_82_interact
+     00BE7D7A  _trigger_83_interact               trigger_83_interact
+     00BE7DA0  _trigger_84_interact               trigger_84_interact
+     00BE7DC6  _trigger_85_interact               trigger_85_interact
+     00BE7DEC  _trigger_86_interact               trigger_86_interact
+     00BE7E12  _trigger_87_interact               trigger_87_interact
+     00BE7E38  _trigger_88_interact               trigger_88_interact
+     00BE7E5E  _trigger_89_interact               trigger_89_interact
+     00BE7E84  _trigger_9_interact                trigger_9_interact
+     00BE7EAA  _trigger_90_interact               trigger_90_interact
+     00BE7ED0  _trigger_91_interact               trigger_91_interact
+     00BE7EF6  _trigger_92_interact               trigger_92_interact
+     00BE7F1C  _trigger_93_interact               trigger_93_interact
+     00BE7F42  _trigger_94_interact               trigger_94_interact
+     00BE7F68  _trigger_95_interact               trigger_95_interact
+     00BE7F8E  _trigger_96_interact               trigger_96_interact
+     00BE7FB4  _trigger_97_interact               trigger_97_interact
+     00BE7FDA  _trigger_99_interact               trigger_99_interact
 
 ASxxxx Linker V03.00 + NoICE + sdld,  page 175.
 Hexadecimal  [32-Bits]
@@ -13604,7 +13608,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -13663,7 +13667,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -13723,7 +13727,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -13783,7 +13787,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -13843,7 +13847,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -13903,7 +13907,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -13963,7 +13967,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -14023,7 +14027,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -14083,7 +14087,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -14143,7 +14147,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -14203,7 +14207,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -14263,7 +14267,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -14323,7 +14327,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -14383,7 +14387,7 @@ Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
@@ -14392,544 +14396,547 @@ _CODE_191                           00BF4000    00001DB6 =        7606. bytes (R
      00BF521B  _scene_228_triggers                scene_228_triggers
      00BF5223  ___func_scene_229_triggers         scene_229_triggers
      00BF5223  _scene_229_triggers                scene_229_triggers
-     00BF522B  ___func_scene_234_triggers         scene_234_triggers
-     00BF522B  _scene_234_triggers                scene_234_triggers
-     00BF5233  ___func_scene_235_sprites          scene_235_sprites
-     00BF5233  _scene_235_sprites                 scene_235_sprites
-     00BF5242  ___func_scene_236_triggers         scene_236_triggers
-     00BF5242  _scene_236_triggers                scene_236_triggers
-     00BF524A  ___func_scene_238_triggers         scene_238_triggers
-     00BF524A  _scene_238_triggers                scene_238_triggers
-     00BF5252  ___func_scene_239_triggers         scene_239_triggers
-     00BF5252  _scene_239_triggers                scene_239_triggers
-     00BF5262  ___func_scene_240_triggers         scene_240_triggers
-     00BF5262  _scene_240_triggers                scene_240_triggers
-     00BF527A  ___func_scene_241_triggers         scene_241_triggers
-     00BF527A  _scene_241_triggers                scene_241_triggers
-     00BF528A  ___func_scene_243_triggers         scene_243_triggers
-     00BF528A  _scene_243_triggers                scene_243_triggers
-     00BF529A  ___func_scene_245_triggers         scene_245_triggers
-     00BF529A  _scene_245_triggers                scene_245_triggers
-     00BF52B2  ___func_scene_246_triggers         scene_246_triggers
-     00BF52B2  _scene_246_triggers                scene_246_triggers
-     00BF52C2  ___func_scene_248_triggers         scene_248_triggers
-     00BF52C2  _scene_248_triggers                scene_248_triggers
-     00BF52D2  ___func_scene_249_triggers         scene_249_triggers
-     00BF52D2  _scene_249_triggers                scene_249_triggers
-     00BF52E2  ___func_scene_25_sprites           scene_25_sprites
-     00BF52E2  _scene_25_sprites                  scene_25_sprites
-     00BF52FA  ___func_scene_250_sprites          scene_250_sprites
-     00BF52FA  _scene_250_sprites                 scene_250_sprites
-     00BF52FD  ___func_scene_250_triggers         scene_250_triggers
-     00BF52FD  _scene_250_triggers                scene_250_triggers
-     00BF5305  ___func_scene_257_triggers         scene_257_triggers
-     00BF5305  _scene_257_triggers                scene_257_triggers
-     00BF530D  ___func_scene_258_sprites          scene_258_sprites
-     00BF530D  _scene_258_sprites                 scene_258_sprites
-     00BF5310  ___func_scene_260_sprites          scene_260_sprites
-     00BF5310  _scene_260_sprites                 scene_260_sprites
-     00BF5313  ___func_scene_261_sprites          scene_261_sprites
-     00BF5313  _scene_261_sprites                 scene_261_sprites
-     00BF5316  ___func_scene_265_sprites          scene_265_sprites
-     00BF5316  _scene_265_sprites                 scene_265_sprites
-     00BF5319  ___func_scene_266_sprites          scene_266_sprites
-     00BF5319  _scene_266_sprites                 scene_266_sprites
-     00BF531C  ___func_scene_267_sprites          scene_267_sprites
-     00BF531C  _scene_267_sprites                 scene_267_sprites
-     00BF531F  ___func_scene_268_triggers         scene_268_triggers
-     00BF531F  _scene_268_triggers                scene_268_triggers
+     00BF522B  ___func_scene_230_triggers         scene_230_triggers
+     00BF522B  _scene_230_triggers                scene_230_triggers
+     00BF5233  ___func_scene_234_triggers         scene_234_triggers
+     00BF5233  _scene_234_triggers                scene_234_triggers
+     00BF523B  ___func_scene_235_sprites          scene_235_sprites
+     00BF523B  _scene_235_sprites                 scene_235_sprites
+     00BF524A  ___func_scene_236_triggers         scene_236_triggers
+     00BF524A  _scene_236_triggers                scene_236_triggers
+     00BF5252  ___func_scene_238_triggers         scene_238_triggers
+     00BF5252  _scene_238_triggers                scene_238_triggers
+     00BF525A  ___func_scene_239_triggers         scene_239_triggers
+     00BF525A  _scene_239_triggers                scene_239_triggers
+     00BF526A  ___func_scene_240_triggers         scene_240_triggers
+     00BF526A  _scene_240_triggers                scene_240_triggers
+     00BF5282  ___func_scene_241_triggers         scene_241_triggers
+     00BF5282  _scene_241_triggers                scene_241_triggers
+     00BF5292  ___func_scene_243_triggers         scene_243_triggers
+     00BF5292  _scene_243_triggers                scene_243_triggers
+     00BF52A2  ___func_scene_245_triggers         scene_245_triggers
+     00BF52A2  _scene_245_triggers                scene_245_triggers
+     00BF52BA  ___func_scene_246_triggers         scene_246_triggers
+     00BF52BA  _scene_246_triggers                scene_246_triggers
+     00BF52CA  ___func_scene_248_triggers         scene_248_triggers
+     00BF52CA  _scene_248_triggers                scene_248_triggers
+     00BF52DA  ___func_scene_249_triggers         scene_249_triggers
+     00BF52DA  _scene_249_triggers                scene_249_triggers
+     00BF52EA  ___func_scene_25_sprites           scene_25_sprites
+     00BF52EA  _scene_25_sprites                  scene_25_sprites
+     00BF5302  ___func_scene_250_sprites          scene_250_sprites
+     00BF5302  _scene_250_sprites                 scene_250_sprites
+     00BF5305  ___func_scene_250_triggers         scene_250_triggers
+     00BF5305  _scene_250_triggers                scene_250_triggers
+     00BF530D  ___func_scene_257_triggers         scene_257_triggers
+     00BF530D  _scene_257_triggers                scene_257_triggers
+     00BF531D  ___func_scene_258_sprites          scene_258_sprites
+     00BF531D  _scene_258_sprites                 scene_258_sprites
+     00BF5320  ___func_scene_260_sprites          scene_260_sprites
+     00BF5320  _scene_260_sprites                 scene_260_sprites
+     00BF5323  ___func_scene_261_sprites          scene_261_sprites
+     00BF5323  _scene_261_sprites                 scene_261_sprites
+     00BF5326  ___func_scene_265_sprites          scene_265_sprites
+     00BF5326  _scene_265_sprites                 scene_265_sprites
+     00BF5329  ___func_scene_266_sprites          scene_266_sprites
+     00BF5329  _scene_266_sprites                 scene_266_sprites
+     00BF532C  ___func_scene_267_sprites          scene_267_sprites
+     00BF532C  _scene_267_sprites                 scene_267_sprites
 ASxxxx Linker V03.00 + NoICE + sdld,  page 323.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BF532F  ___func_scene_269_sprites          scene_269_sprites
-     00BF532F  _scene_269_sprites                 scene_269_sprites
-     00BF5332  ___func_scene_269_triggers         scene_269_triggers
-     00BF5332  _scene_269_triggers                scene_269_triggers
-     00BF533A  ___func_scene_27_sprites           scene_27_sprites
-     00BF533A  _scene_27_sprites                  scene_27_sprites
-     00BF533D  ___func_scene_270_triggers         scene_270_triggers
-     00BF533D  _scene_270_triggers                scene_270_triggers
-     00BF5345  ___func_scene_271_triggers         scene_271_triggers
-     00BF5345  _scene_271_triggers                scene_271_triggers
-     00BF535D  ___func_scene_283_sprites          scene_283_sprites
-     00BF535D  _scene_283_sprites                 scene_283_sprites
-     00BF5366  ___func_scene_283_triggers         scene_283_triggers
-     00BF5366  _scene_283_triggers                scene_283_triggers
-     00BF536E  ___func_scene_284_triggers         scene_284_triggers
-     00BF536E  _scene_284_triggers                scene_284_triggers
-     00BF5376  ___func_scene_285_sprites          scene_285_sprites
-     00BF5376  _scene_285_sprites                 scene_285_sprites
-     00BF5379  ___func_scene_285_triggers         scene_285_triggers
-     00BF5379  _scene_285_triggers                scene_285_triggers
-     00BF5381  ___func_scene_287_triggers         scene_287_triggers
-     00BF5381  _scene_287_triggers                scene_287_triggers
-     00BF5389  ___func_scene_294_sprites          scene_294_sprites
-     00BF5389  _scene_294_sprites                 scene_294_sprites
-     00BF539B  ___func_scene_296_sprites          scene_296_sprites
-     00BF539B  _scene_296_sprites                 scene_296_sprites
-     00BF539E  ___func_scene_297_sprites          scene_297_sprites
-     00BF539E  _scene_297_sprites                 scene_297_sprites
-     00BF53A1  ___func_scene_298_sprites          scene_298_sprites
-     00BF53A1  _scene_298_sprites                 scene_298_sprites
-     00BF53A4  ___func_scene_299_sprites          scene_299_sprites
-     00BF53A4  _scene_299_sprites                 scene_299_sprites
-     00BF53A7  ___func_scene_3_sprites            scene_3_sprites
-     00BF53A7  _scene_3_sprites                   scene_3_sprites
-     00BF53AA  ___func_scene_3_triggers           scene_3_triggers
-     00BF53AA  _scene_3_triggers                  scene_3_triggers
-     00BF53B2  ___func_scene_300_sprites          scene_300_sprites
-     00BF53B2  _scene_300_sprites                 scene_300_sprites
-     00BF53B5  ___func_scene_301_sprites          scene_301_sprites
-     00BF53B5  _scene_301_sprites                 scene_301_sprites
-     00BF53B8  ___func_scene_302_sprites          scene_302_sprites
-     00BF53B8  _scene_302_sprites                 scene_302_sprites
-     00BF53BB  ___func_scene_305_sprites          scene_305_sprites
-     00BF53BB  _scene_305_sprites                 scene_305_sprites
-     00BF53BE  ___func_scene_305_triggers         scene_305_triggers
-     00BF53BE  _scene_305_triggers                scene_305_triggers
-     00BF53C6  ___func_scene_306_sprites          scene_306_sprites
-     00BF53C6  _scene_306_sprites                 scene_306_sprites
-     00BF53C9  ___func_scene_306_triggers         scene_306_triggers
-     00BF53C9  _scene_306_triggers                scene_306_triggers
-     00BF53D9  ___func_scene_307_triggers         scene_307_triggers
+     00BF532F  ___func_scene_268_triggers         scene_268_triggers
+     00BF532F  _scene_268_triggers                scene_268_triggers
+     00BF533F  ___func_scene_269_sprites          scene_269_sprites
+     00BF533F  _scene_269_sprites                 scene_269_sprites
+     00BF5342  ___func_scene_269_triggers         scene_269_triggers
+     00BF5342  _scene_269_triggers                scene_269_triggers
+     00BF534A  ___func_scene_27_sprites           scene_27_sprites
+     00BF534A  _scene_27_sprites                  scene_27_sprites
+     00BF534D  ___func_scene_270_triggers         scene_270_triggers
+     00BF534D  _scene_270_triggers                scene_270_triggers
+     00BF5355  ___func_scene_271_triggers         scene_271_triggers
+     00BF5355  _scene_271_triggers                scene_271_triggers
+     00BF536D  ___func_scene_283_sprites          scene_283_sprites
+     00BF536D  _scene_283_sprites                 scene_283_sprites
+     00BF5376  ___func_scene_283_triggers         scene_283_triggers
+     00BF5376  _scene_283_triggers                scene_283_triggers
+     00BF537E  ___func_scene_284_triggers         scene_284_triggers
+     00BF537E  _scene_284_triggers                scene_284_triggers
+     00BF5386  ___func_scene_285_sprites          scene_285_sprites
+     00BF5386  _scene_285_sprites                 scene_285_sprites
+     00BF5389  ___func_scene_285_triggers         scene_285_triggers
+     00BF5389  _scene_285_triggers                scene_285_triggers
+     00BF5391  ___func_scene_287_triggers         scene_287_triggers
+     00BF5391  _scene_287_triggers                scene_287_triggers
+     00BF5399  ___func_scene_296_sprites          scene_296_sprites
+     00BF5399  _scene_296_sprites                 scene_296_sprites
+     00BF539C  ___func_scene_297_sprites          scene_297_sprites
+     00BF539C  _scene_297_sprites                 scene_297_sprites
+     00BF539F  ___func_scene_298_sprites          scene_298_sprites
+     00BF539F  _scene_298_sprites                 scene_298_sprites
+     00BF53A2  ___func_scene_299_sprites          scene_299_sprites
+     00BF53A2  _scene_299_sprites                 scene_299_sprites
+     00BF53A5  ___func_scene_3_sprites            scene_3_sprites
+     00BF53A5  _scene_3_sprites                   scene_3_sprites
+     00BF53A8  ___func_scene_3_triggers           scene_3_triggers
+     00BF53A8  _scene_3_triggers                  scene_3_triggers
+     00BF53B0  ___func_scene_300_sprites          scene_300_sprites
+     00BF53B0  _scene_300_sprites                 scene_300_sprites
+     00BF53B3  ___func_scene_301_sprites          scene_301_sprites
+     00BF53B3  _scene_301_sprites                 scene_301_sprites
+     00BF53B6  ___func_scene_302_sprites          scene_302_sprites
+     00BF53B6  _scene_302_sprites                 scene_302_sprites
+     00BF53B9  ___func_scene_305_sprites          scene_305_sprites
+     00BF53B9  _scene_305_sprites                 scene_305_sprites
+     00BF53BC  ___func_scene_305_triggers         scene_305_triggers
+     00BF53BC  _scene_305_triggers                scene_305_triggers
+     00BF53C4  ___func_scene_306_sprites          scene_306_sprites
+     00BF53C4  _scene_306_sprites                 scene_306_sprites
+     00BF53C7  ___func_scene_306_triggers         scene_306_triggers
+     00BF53C7  _scene_306_triggers                scene_306_triggers
+     00BF53D7  ___func_scene_307_triggers         scene_307_triggers
 ASxxxx Linker V03.00 + NoICE + sdld,  page 324.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BF53D9  _scene_307_triggers                scene_307_triggers
-     00BF53E1  ___func_scene_308_sprites          scene_308_sprites
-     00BF53E1  _scene_308_sprites                 scene_308_sprites
-     00BF53E4  ___func_scene_308_triggers         scene_308_triggers
-     00BF53E4  _scene_308_triggers                scene_308_triggers
-     00BF53EC  ___func_scene_309_sprites          scene_309_sprites
-     00BF53EC  _scene_309_sprites                 scene_309_sprites
-     00BF53EF  ___func_scene_309_triggers         scene_309_triggers
-     00BF53EF  _scene_309_triggers                scene_309_triggers
-     00BF53F7  ___func_scene_310_sprites          scene_310_sprites
-     00BF53F7  _scene_310_sprites                 scene_310_sprites
-     00BF53FA  ___func_scene_310_triggers         scene_310_triggers
-     00BF53FA  _scene_310_triggers                scene_310_triggers
-     00BF540A  ___func_scene_311_sprites          scene_311_sprites
-     00BF540A  _scene_311_sprites                 scene_311_sprites
-     00BF540D  ___func_scene_311_triggers         scene_311_triggers
-     00BF540D  _scene_311_triggers                scene_311_triggers
-     00BF541D  ___func_scene_312_sprites          scene_312_sprites
-     00BF541D  _scene_312_sprites                 scene_312_sprites
-     00BF5420  ___func_scene_312_triggers         scene_312_triggers
-     00BF5420  _scene_312_triggers                scene_312_triggers
-     00BF5430  ___func_scene_313_sprites          scene_313_sprites
-     00BF5430  _scene_313_sprites                 scene_313_sprites
-     00BF5433  ___func_scene_313_triggers         scene_313_triggers
-     00BF5433  _scene_313_triggers                scene_313_triggers
-     00BF543B  ___func_scene_314_sprites          scene_314_sprites
-     00BF543B  _scene_314_sprites                 scene_314_sprites
-     00BF5444  ___func_scene_314_triggers         scene_314_triggers
-     00BF5444  _scene_314_triggers                scene_314_triggers
-     00BF544C  ___func_scene_315_sprites          scene_315_sprites
-     00BF544C  _scene_315_sprites                 scene_315_sprites
-     00BF544F  ___func_scene_316_sprites          scene_316_sprites
-     00BF544F  _scene_316_sprites                 scene_316_sprites
-     00BF5458  ___func_scene_317_sprites          scene_317_sprites
-     00BF5458  _scene_317_sprites                 scene_317_sprites
-     00BF545B  ___func_scene_319_sprites          scene_319_sprites
-     00BF545B  _scene_319_sprites                 scene_319_sprites
-     00BF5467  ___func_scene_319_triggers         scene_319_triggers
-     00BF5467  _scene_319_triggers                scene_319_triggers
-     00BF547F  ___func_scene_320_sprites          scene_320_sprites
-     00BF547F  _scene_320_sprites                 scene_320_sprites
-     00BF5482  ___func_scene_320_triggers         scene_320_triggers
-     00BF5482  _scene_320_triggers                scene_320_triggers
-     00BF5492  _scene_321_init                    scene_321_init
-     00BF54A8  ___func_scene_321_sprites          scene_321_sprites
-     00BF54A8  _scene_321_sprites                 scene_321_sprites
-     00BF54AB  ___func_scene_321_triggers         scene_321_triggers
-     00BF54AB  _scene_321_triggers                scene_321_triggers
-     00BF54B3  ___func_scene_333_sprites          scene_333_sprites
-     00BF54B3  _scene_333_sprites                 scene_333_sprites
-     00BF54BC  ___func_scene_334_sprites          scene_334_sprites
+     00BF53D7  _scene_307_triggers                scene_307_triggers
+     00BF53DF  ___func_scene_308_sprites          scene_308_sprites
+     00BF53DF  _scene_308_sprites                 scene_308_sprites
+     00BF53E2  ___func_scene_308_triggers         scene_308_triggers
+     00BF53E2  _scene_308_triggers                scene_308_triggers
+     00BF53EA  ___func_scene_309_sprites          scene_309_sprites
+     00BF53EA  _scene_309_sprites                 scene_309_sprites
+     00BF53ED  ___func_scene_309_triggers         scene_309_triggers
+     00BF53ED  _scene_309_triggers                scene_309_triggers
+     00BF53F5  ___func_scene_310_sprites          scene_310_sprites
+     00BF53F5  _scene_310_sprites                 scene_310_sprites
+     00BF53F8  ___func_scene_310_triggers         scene_310_triggers
+     00BF53F8  _scene_310_triggers                scene_310_triggers
+     00BF5408  ___func_scene_311_sprites          scene_311_sprites
+     00BF5408  _scene_311_sprites                 scene_311_sprites
+     00BF540B  ___func_scene_311_triggers         scene_311_triggers
+     00BF540B  _scene_311_triggers                scene_311_triggers
+     00BF541B  ___func_scene_312_sprites          scene_312_sprites
+     00BF541B  _scene_312_sprites                 scene_312_sprites
+     00BF541E  ___func_scene_312_triggers         scene_312_triggers
+     00BF541E  _scene_312_triggers                scene_312_triggers
+     00BF542E  ___func_scene_313_sprites          scene_313_sprites
+     00BF542E  _scene_313_sprites                 scene_313_sprites
+     00BF5431  ___func_scene_313_triggers         scene_313_triggers
+     00BF5431  _scene_313_triggers                scene_313_triggers
+     00BF5439  ___func_scene_314_sprites          scene_314_sprites
+     00BF5439  _scene_314_sprites                 scene_314_sprites
+     00BF5442  ___func_scene_314_triggers         scene_314_triggers
+     00BF5442  _scene_314_triggers                scene_314_triggers
+     00BF544A  ___func_scene_315_sprites          scene_315_sprites
+     00BF544A  _scene_315_sprites                 scene_315_sprites
+     00BF544D  ___func_scene_316_sprites          scene_316_sprites
+     00BF544D  _scene_316_sprites                 scene_316_sprites
+     00BF5456  ___func_scene_317_sprites          scene_317_sprites
+     00BF5456  _scene_317_sprites                 scene_317_sprites
+     00BF5459  ___func_scene_319_sprites          scene_319_sprites
+     00BF5459  _scene_319_sprites                 scene_319_sprites
+     00BF5465  ___func_scene_319_triggers         scene_319_triggers
+     00BF5465  _scene_319_triggers                scene_319_triggers
+     00BF547D  ___func_scene_320_sprites          scene_320_sprites
+     00BF547D  _scene_320_sprites                 scene_320_sprites
+     00BF5480  ___func_scene_320_triggers         scene_320_triggers
+     00BF5480  _scene_320_triggers                scene_320_triggers
+     00BF5490  _scene_321_init                    scene_321_init
+     00BF54A6  ___func_scene_321_sprites          scene_321_sprites
+     00BF54A6  _scene_321_sprites                 scene_321_sprites
+     00BF54A9  ___func_scene_321_triggers         scene_321_triggers
+     00BF54A9  _scene_321_triggers                scene_321_triggers
+     00BF54B1  ___func_scene_333_sprites          scene_333_sprites
+     00BF54B1  _scene_333_sprites                 scene_333_sprites
+     00BF54BA  ___func_scene_334_sprites          scene_334_sprites
 ASxxxx Linker V03.00 + NoICE + sdld,  page 325.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BF54BC  _scene_334_sprites                 scene_334_sprites
-     00BF54BF  ___func_scene_334_triggers         scene_334_triggers
-     00BF54BF  _scene_334_triggers                scene_334_triggers
-     00BF54CF  ___func_scene_335_triggers         scene_335_triggers
-     00BF54CF  _scene_335_triggers                scene_335_triggers
-     00BF54DF  ___func_scene_336_sprites          scene_336_sprites
-     00BF54DF  _scene_336_sprites                 scene_336_sprites
-     00BF54E2  ___func_scene_337_sprites          scene_337_sprites
-     00BF54E2  _scene_337_sprites                 scene_337_sprites
-     00BF54E8  ___func_scene_338_sprites          scene_338_sprites
-     00BF54E8  _scene_338_sprites                 scene_338_sprites
-     00BF54F1  ___func_scene_340_sprites          scene_340_sprites
-     00BF54F1  _scene_340_sprites                 scene_340_sprites
-     00BF54F7  ___func_scene_341_sprites          scene_341_sprites
-     00BF54F7  _scene_341_sprites                 scene_341_sprites
-     00BF54FD  ___func_scene_341_triggers         scene_341_triggers
-     00BF54FD  _scene_341_triggers                scene_341_triggers
-     00BF550D  ___func_scene_342_triggers         scene_342_triggers
-     00BF550D  _scene_342_triggers                scene_342_triggers
-     00BF5515  ___func_scene_343_sprites          scene_343_sprites
-     00BF5515  _scene_343_sprites                 scene_343_sprites
-     00BF5518  ___func_scene_345_triggers         scene_345_triggers
-     00BF5518  _scene_345_triggers                scene_345_triggers
-     00BF5520  _scene_346_init                    scene_346_init
-     00BF5536  ___func_scene_346_triggers         scene_346_triggers
-     00BF5536  _scene_346_triggers                scene_346_triggers
-     00BF553E  _scene_347_init                    scene_347_init
-     00BF5554  ___func_scene_347_triggers         scene_347_triggers
-     00BF5554  _scene_347_triggers                scene_347_triggers
-     00BF5564  _scene_348_init                    scene_348_init
-     00BF557A  ___func_scene_348_triggers         scene_348_triggers
-     00BF557A  _scene_348_triggers                scene_348_triggers
-     00BF558A  _scene_349_init                    scene_349_init
-     00BF55A0  ___func_scene_349_sprites          scene_349_sprites
-     00BF55A0  _scene_349_sprites                 scene_349_sprites
-     00BF55A3  ___func_scene_349_triggers         scene_349_triggers
-     00BF55A3  _scene_349_triggers                scene_349_triggers
-     00BF55AB  ___func_scene_352_sprites          scene_352_sprites
-     00BF55AB  _scene_352_sprites                 scene_352_sprites
-     00BF55BA  ___func_scene_352_triggers         scene_352_triggers
-     00BF55BA  _scene_352_triggers                scene_352_triggers
-     00BF55D2  ___func_scene_354_sprites          scene_354_sprites
-     00BF55D2  _scene_354_sprites                 scene_354_sprites
-     00BF55DB  ___func_scene_359_triggers         scene_359_triggers
-     00BF55DB  _scene_359_triggers                scene_359_triggers
-     00BF55F3  ___func_scene_360_sprites          scene_360_sprites
-     00BF55F3  _scene_360_sprites                 scene_360_sprites
-     00BF55F6  ___func_scene_360_triggers         scene_360_triggers
-     00BF55F6  _scene_360_triggers                scene_360_triggers
-     00BF55FE  ___func_scene_361_sprites          scene_361_sprites
-     00BF55FE  _scene_361_sprites                 scene_361_sprites
+     00BF54BA  _scene_334_sprites                 scene_334_sprites
+     00BF54BD  ___func_scene_334_triggers         scene_334_triggers
+     00BF54BD  _scene_334_triggers                scene_334_triggers
+     00BF54CD  ___func_scene_335_triggers         scene_335_triggers
+     00BF54CD  _scene_335_triggers                scene_335_triggers
+     00BF54DD  ___func_scene_336_sprites          scene_336_sprites
+     00BF54DD  _scene_336_sprites                 scene_336_sprites
+     00BF54E0  ___func_scene_337_sprites          scene_337_sprites
+     00BF54E0  _scene_337_sprites                 scene_337_sprites
+     00BF54E6  ___func_scene_338_sprites          scene_338_sprites
+     00BF54E6  _scene_338_sprites                 scene_338_sprites
+     00BF54EF  ___func_scene_340_sprites          scene_340_sprites
+     00BF54EF  _scene_340_sprites                 scene_340_sprites
+     00BF54F5  ___func_scene_341_sprites          scene_341_sprites
+     00BF54F5  _scene_341_sprites                 scene_341_sprites
+     00BF54FB  ___func_scene_341_triggers         scene_341_triggers
+     00BF54FB  _scene_341_triggers                scene_341_triggers
+     00BF550B  ___func_scene_342_triggers         scene_342_triggers
+     00BF550B  _scene_342_triggers                scene_342_triggers
+     00BF5513  ___func_scene_343_sprites          scene_343_sprites
+     00BF5513  _scene_343_sprites                 scene_343_sprites
+     00BF5516  ___func_scene_345_triggers         scene_345_triggers
+     00BF5516  _scene_345_triggers                scene_345_triggers
+     00BF551E  _scene_346_init                    scene_346_init
+     00BF5534  ___func_scene_346_triggers         scene_346_triggers
+     00BF5534  _scene_346_triggers                scene_346_triggers
+     00BF553C  _scene_347_init                    scene_347_init
+     00BF5552  ___func_scene_347_triggers         scene_347_triggers
+     00BF5552  _scene_347_triggers                scene_347_triggers
+     00BF5562  _scene_348_init                    scene_348_init
+     00BF5578  ___func_scene_348_triggers         scene_348_triggers
+     00BF5578  _scene_348_triggers                scene_348_triggers
+     00BF5588  _scene_349_init                    scene_349_init
+     00BF559E  ___func_scene_349_sprites          scene_349_sprites
+     00BF559E  _scene_349_sprites                 scene_349_sprites
+     00BF55A1  ___func_scene_349_triggers         scene_349_triggers
+     00BF55A1  _scene_349_triggers                scene_349_triggers
+     00BF55A9  ___func_scene_352_sprites          scene_352_sprites
+     00BF55A9  _scene_352_sprites                 scene_352_sprites
+     00BF55B8  ___func_scene_352_triggers         scene_352_triggers
+     00BF55B8  _scene_352_triggers                scene_352_triggers
+     00BF55D0  ___func_scene_354_sprites          scene_354_sprites
+     00BF55D0  _scene_354_sprites                 scene_354_sprites
+     00BF55D9  ___func_scene_359_triggers         scene_359_triggers
+     00BF55D9  _scene_359_triggers                scene_359_triggers
+     00BF55F1  ___func_scene_360_sprites          scene_360_sprites
+     00BF55F1  _scene_360_sprites                 scene_360_sprites
+     00BF55F4  ___func_scene_360_triggers         scene_360_triggers
+     00BF55F4  _scene_360_triggers                scene_360_triggers
+     00BF55FC  ___func_scene_361_sprites          scene_361_sprites
+     00BF55FC  _scene_361_sprites                 scene_361_sprites
 ASxxxx Linker V03.00 + NoICE + sdld,  page 326.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BF5607  ___func_scene_366_sprites          scene_366_sprites
-     00BF5607  _scene_366_sprites                 scene_366_sprites
-     00BF5613  ___func_scene_367_sprites          scene_367_sprites
-     00BF5613  _scene_367_sprites                 scene_367_sprites
-     00BF561F  ___func_scene_368_sprites          scene_368_sprites
-     00BF561F  _scene_368_sprites                 scene_368_sprites
-     00BF562E  ___func_scene_369_sprites          scene_369_sprites
-     00BF562E  _scene_369_sprites                 scene_369_sprites
-     00BF5637  ___func_scene_370_sprites          scene_370_sprites
-     00BF5637  _scene_370_sprites                 scene_370_sprites
-     00BF5649  ___func_scene_371_sprites          scene_371_sprites
-     00BF5649  _scene_371_sprites                 scene_371_sprites
-     00BF5652  ___func_scene_372_sprites          scene_372_sprites
-     00BF5652  _scene_372_sprites                 scene_372_sprites
-     00BF5655  ___func_scene_373_sprites          scene_373_sprites
-     00BF5655  _scene_373_sprites                 scene_373_sprites
-     00BF565B  ___func_scene_39_sprites           scene_39_sprites
-     00BF565B  _scene_39_sprites                  scene_39_sprites
-     00BF565E  ___func_scene_39_triggers          scene_39_triggers
-     00BF565E  _scene_39_triggers                 scene_39_triggers
-     00BF5676  ___func_scene_40_sprites           scene_40_sprites
-     00BF5676  _scene_40_sprites                  scene_40_sprites
-     00BF5679  ___func_scene_40_triggers          scene_40_triggers
-     00BF5679  _scene_40_triggers                 scene_40_triggers
-     00BF5689  ___func_scene_41_sprites           scene_41_sprites
-     00BF5689  _scene_41_sprites                  scene_41_sprites
-     00BF568F  ___func_scene_41_triggers          scene_41_triggers
-     00BF568F  _scene_41_triggers                 scene_41_triggers
-     00BF56A7  ___func_scene_42_sprites           scene_42_sprites
-     00BF56A7  _scene_42_sprites                  scene_42_sprites
-     00BF56AA  ___func_scene_42_triggers          scene_42_triggers
-     00BF56AA  _scene_42_triggers                 scene_42_triggers
-     00BF56BA  ___func_scene_43_sprites           scene_43_sprites
-     00BF56BA  _scene_43_sprites                  scene_43_sprites
-     00BF56BD  ___func_scene_43_triggers          scene_43_triggers
-     00BF56BD  _scene_43_triggers                 scene_43_triggers
-     00BF56D5  ___func_scene_44_sprites           scene_44_sprites
-     00BF56D5  _scene_44_sprites                  scene_44_sprites
-     00BF56DB  ___func_scene_44_triggers          scene_44_triggers
-     00BF56DB  _scene_44_triggers                 scene_44_triggers
-     00BF56F3  ___func_scene_45_sprites           scene_45_sprites
-     00BF56F3  _scene_45_sprites                  scene_45_sprites
-     00BF56F9  ___func_scene_45_triggers          scene_45_triggers
-     00BF56F9  _scene_45_triggers                 scene_45_triggers
-     00BF5711  ___func_scene_46_triggers          scene_46_triggers
-     00BF5711  _scene_46_triggers                 scene_46_triggers
-     00BF5729  ___func_scene_54_triggers          scene_54_triggers
-     00BF5729  _scene_54_triggers                 scene_54_triggers
-     00BF5741  ___func_scene_55_triggers          scene_55_triggers
-     00BF5741  _scene_55_triggers                 scene_55_triggers
-     00BF5749  ___func_scene_56_triggers          scene_56_triggers
+     00BF5605  ___func_scene_366_sprites          scene_366_sprites
+     00BF5605  _scene_366_sprites                 scene_366_sprites
+     00BF5611  ___func_scene_367_sprites          scene_367_sprites
+     00BF5611  _scene_367_sprites                 scene_367_sprites
+     00BF561D  ___func_scene_368_sprites          scene_368_sprites
+     00BF561D  _scene_368_sprites                 scene_368_sprites
+     00BF562C  ___func_scene_369_sprites          scene_369_sprites
+     00BF562C  _scene_369_sprites                 scene_369_sprites
+     00BF5635  ___func_scene_370_sprites          scene_370_sprites
+     00BF5635  _scene_370_sprites                 scene_370_sprites
+     00BF5647  ___func_scene_371_sprites          scene_371_sprites
+     00BF5647  _scene_371_sprites                 scene_371_sprites
+     00BF5650  ___func_scene_372_sprites          scene_372_sprites
+     00BF5650  _scene_372_sprites                 scene_372_sprites
+     00BF5653  ___func_scene_373_sprites          scene_373_sprites
+     00BF5653  _scene_373_sprites                 scene_373_sprites
+     00BF5659  ___func_scene_39_sprites           scene_39_sprites
+     00BF5659  _scene_39_sprites                  scene_39_sprites
+     00BF565C  ___func_scene_39_triggers          scene_39_triggers
+     00BF565C  _scene_39_triggers                 scene_39_triggers
+     00BF5674  ___func_scene_40_sprites           scene_40_sprites
+     00BF5674  _scene_40_sprites                  scene_40_sprites
+     00BF5677  ___func_scene_40_triggers          scene_40_triggers
+     00BF5677  _scene_40_triggers                 scene_40_triggers
+     00BF5687  ___func_scene_41_sprites           scene_41_sprites
+     00BF5687  _scene_41_sprites                  scene_41_sprites
+     00BF568D  ___func_scene_41_triggers          scene_41_triggers
+     00BF568D  _scene_41_triggers                 scene_41_triggers
+     00BF56A5  ___func_scene_42_sprites           scene_42_sprites
+     00BF56A5  _scene_42_sprites                  scene_42_sprites
+     00BF56A8  ___func_scene_42_triggers          scene_42_triggers
+     00BF56A8  _scene_42_triggers                 scene_42_triggers
+     00BF56B8  ___func_scene_43_sprites           scene_43_sprites
+     00BF56B8  _scene_43_sprites                  scene_43_sprites
+     00BF56BB  ___func_scene_43_triggers          scene_43_triggers
+     00BF56BB  _scene_43_triggers                 scene_43_triggers
+     00BF56D3  ___func_scene_44_sprites           scene_44_sprites
+     00BF56D3  _scene_44_sprites                  scene_44_sprites
+     00BF56D9  ___func_scene_44_triggers          scene_44_triggers
+     00BF56D9  _scene_44_triggers                 scene_44_triggers
+     00BF56F1  ___func_scene_45_sprites           scene_45_sprites
+     00BF56F1  _scene_45_sprites                  scene_45_sprites
+     00BF56F7  ___func_scene_45_triggers          scene_45_triggers
+     00BF56F7  _scene_45_triggers                 scene_45_triggers
+     00BF570F  ___func_scene_46_triggers          scene_46_triggers
+     00BF570F  _scene_46_triggers                 scene_46_triggers
+     00BF5727  ___func_scene_54_triggers          scene_54_triggers
+     00BF5727  _scene_54_triggers                 scene_54_triggers
+     00BF573F  ___func_scene_55_triggers          scene_55_triggers
+     00BF573F  _scene_55_triggers                 scene_55_triggers
+     00BF5747  ___func_scene_56_triggers          scene_56_triggers
 ASxxxx Linker V03.00 + NoICE + sdld,  page 327.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BF5749  _scene_56_triggers                 scene_56_triggers
-     00BF5751  ___func_scene_57_triggers          scene_57_triggers
-     00BF5751  _scene_57_triggers                 scene_57_triggers
-     00BF5759  ___func_scene_58_sprites           scene_58_sprites
-     00BF5759  _scene_58_sprites                  scene_58_sprites
-     00BF575C  ___func_scene_58_triggers          scene_58_triggers
-     00BF575C  _scene_58_triggers                 scene_58_triggers
-     00BF5764  ___func_scene_6_sprites            scene_6_sprites
-     00BF5764  _scene_6_sprites                   scene_6_sprites
-     00BF5767  ___func_scene_6_triggers           scene_6_triggers
-     00BF5767  _scene_6_triggers                  scene_6_triggers
-     00BF576F  ___func_scene_60_sprites           scene_60_sprites
-     00BF576F  _scene_60_sprites                  scene_60_sprites
-     00BF5772  ___func_scene_61_sprites           scene_61_sprites
-     00BF5772  _scene_61_sprites                  scene_61_sprites
-     00BF5775  ___func_scene_61_triggers          scene_61_triggers
-     00BF5775  _scene_61_triggers                 scene_61_triggers
-     00BF577D  _scene_66_init                     scene_66_init
-     00BF5793  ___func_scene_66_sprites           scene_66_sprites
-     00BF5793  _scene_66_sprites                  scene_66_sprites
-     00BF5796  ___func_scene_66_triggers          scene_66_triggers
-     00BF5796  _scene_66_triggers                 scene_66_triggers
-     00BF579E  ___func_scene_67_sprites           scene_67_sprites
-     00BF579E  _scene_67_sprites                  scene_67_sprites
-     00BF57A4  ___func_scene_67_triggers          scene_67_triggers
-     00BF57A4  _scene_67_triggers                 scene_67_triggers
-     00BF57AC  ___func_scene_68_sprites           scene_68_sprites
-     00BF57AC  _scene_68_sprites                  scene_68_sprites
-     00BF57B5  ___func_scene_69_sprites           scene_69_sprites
-     00BF57B5  _scene_69_sprites                  scene_69_sprites
-     00BF57B8  ___func_scene_69_triggers          scene_69_triggers
-     00BF57B8  _scene_69_triggers                 scene_69_triggers
-     00BF57C0  ___func_scene_7_sprites            scene_7_sprites
-     00BF57C0  _scene_7_sprites                   scene_7_sprites
-     00BF57C6  ___func_scene_7_triggers           scene_7_triggers
-     00BF57C6  _scene_7_triggers                  scene_7_triggers
-     00BF57CE  ___func_scene_70_sprites           scene_70_sprites
-     00BF57CE  _scene_70_sprites                  scene_70_sprites
-     00BF57D1  ___func_scene_70_triggers          scene_70_triggers
-     00BF57D1  _scene_70_triggers                 scene_70_triggers
-     00BF57D9  ___func_scene_71_sprites           scene_71_sprites
-     00BF57D9  _scene_71_sprites                  scene_71_sprites
-     00BF57DC  ___func_scene_71_triggers          scene_71_triggers
-     00BF57DC  _scene_71_triggers                 scene_71_triggers
-     00BF57E4  ___func_scene_72_sprites           scene_72_sprites
-     00BF57E4  _scene_72_sprites                  scene_72_sprites
-     00BF57E7  ___func_scene_72_triggers          scene_72_triggers
-     00BF57E7  _scene_72_triggers                 scene_72_triggers
-     00BF57EF  _scene_73_init                     scene_73_init
-     00BF580E  ___func_scene_73_sprites           scene_73_sprites
-     00BF580E  _scene_73_sprites                  scene_73_sprites
+     00BF5747  _scene_56_triggers                 scene_56_triggers
+     00BF574F  ___func_scene_57_triggers          scene_57_triggers
+     00BF574F  _scene_57_triggers                 scene_57_triggers
+     00BF5757  ___func_scene_58_sprites           scene_58_sprites
+     00BF5757  _scene_58_sprites                  scene_58_sprites
+     00BF575A  ___func_scene_58_triggers          scene_58_triggers
+     00BF575A  _scene_58_triggers                 scene_58_triggers
+     00BF5762  ___func_scene_6_sprites            scene_6_sprites
+     00BF5762  _scene_6_sprites                   scene_6_sprites
+     00BF5765  ___func_scene_6_triggers           scene_6_triggers
+     00BF5765  _scene_6_triggers                  scene_6_triggers
+     00BF576D  ___func_scene_60_sprites           scene_60_sprites
+     00BF576D  _scene_60_sprites                  scene_60_sprites
+     00BF5770  ___func_scene_61_sprites           scene_61_sprites
+     00BF5770  _scene_61_sprites                  scene_61_sprites
+     00BF5773  ___func_scene_61_triggers          scene_61_triggers
+     00BF5773  _scene_61_triggers                 scene_61_triggers
+     00BF577B  _scene_66_init                     scene_66_init
+     00BF5791  ___func_scene_66_sprites           scene_66_sprites
+     00BF5791  _scene_66_sprites                  scene_66_sprites
+     00BF5794  ___func_scene_66_triggers          scene_66_triggers
+     00BF5794  _scene_66_triggers                 scene_66_triggers
+     00BF579C  ___func_scene_67_sprites           scene_67_sprites
+     00BF579C  _scene_67_sprites                  scene_67_sprites
+     00BF57A2  ___func_scene_67_triggers          scene_67_triggers
+     00BF57A2  _scene_67_triggers                 scene_67_triggers
+     00BF57AA  ___func_scene_68_sprites           scene_68_sprites
+     00BF57AA  _scene_68_sprites                  scene_68_sprites
+     00BF57B3  ___func_scene_69_sprites           scene_69_sprites
+     00BF57B3  _scene_69_sprites                  scene_69_sprites
+     00BF57B6  ___func_scene_69_triggers          scene_69_triggers
+     00BF57B6  _scene_69_triggers                 scene_69_triggers
+     00BF57BE  ___func_scene_7_sprites            scene_7_sprites
+     00BF57BE  _scene_7_sprites                   scene_7_sprites
+     00BF57C4  ___func_scene_7_triggers           scene_7_triggers
+     00BF57C4  _scene_7_triggers                  scene_7_triggers
+     00BF57CC  _scene_70_init                     scene_70_init
+     00BF57EB  ___func_scene_70_sprites           scene_70_sprites
+     00BF57EB  _scene_70_sprites                  scene_70_sprites
+     00BF57EE  ___func_scene_70_triggers          scene_70_triggers
+     00BF57EE  _scene_70_triggers                 scene_70_triggers
+     00BF57F6  _scene_71_init                     scene_71_init
+     00BF5815  ___func_scene_71_sprites           scene_71_sprites
+     00BF5815  _scene_71_sprites                  scene_71_sprites
+     00BF5818  ___func_scene_71_triggers          scene_71_triggers
+     00BF5818  _scene_71_triggers                 scene_71_triggers
+     00BF5820  _scene_72_init                     scene_72_init
+     00BF583F  ___func_scene_72_sprites           scene_72_sprites
+     00BF583F  _scene_72_sprites                  scene_72_sprites
+     00BF5842  ___func_scene_72_triggers          scene_72_triggers
+     00BF5842  _scene_72_triggers                 scene_72_triggers
 ASxxxx Linker V03.00 + NoICE + sdld,  page 328.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BF5811  ___func_scene_73_triggers          scene_73_triggers
-     00BF5811  _scene_73_triggers                 scene_73_triggers
-     00BF5819  _scene_74_init                     scene_74_init
-     00BF5838  ___func_scene_74_sprites           scene_74_sprites
-     00BF5838  _scene_74_sprites                  scene_74_sprites
-     00BF583E  ___func_scene_74_triggers          scene_74_triggers
-     00BF583E  _scene_74_triggers                 scene_74_triggers
-     00BF5846  _scene_75_init                     scene_75_init
-     00BF5865  ___func_scene_75_sprites           scene_75_sprites
-     00BF5865  _scene_75_sprites                  scene_75_sprites
-     00BF5868  ___func_scene_75_triggers          scene_75_triggers
-     00BF5868  _scene_75_triggers                 scene_75_triggers
-     00BF5870  _scene_76_init                     scene_76_init
-     00BF588F  ___func_scene_76_sprites           scene_76_sprites
-     00BF588F  _scene_76_sprites                  scene_76_sprites
-     00BF5895  ___func_scene_76_triggers          scene_76_triggers
-     00BF5895  _scene_76_triggers                 scene_76_triggers
-     00BF589D  _scene_77_init                     scene_77_init
-     00BF58BC  ___func_scene_77_sprites           scene_77_sprites
-     00BF58BC  _scene_77_sprites                  scene_77_sprites
-     00BF58BF  ___func_scene_77_triggers          scene_77_triggers
-     00BF58BF  _scene_77_triggers                 scene_77_triggers
-     00BF58C7  _scene_78_init                     scene_78_init
-     00BF58E6  ___func_scene_78_sprites           scene_78_sprites
-     00BF58E6  _scene_78_sprites                  scene_78_sprites
-     00BF58E9  ___func_scene_78_triggers          scene_78_triggers
-     00BF58E9  _scene_78_triggers                 scene_78_triggers
-     00BF58F1  _scene_79_init                     scene_79_init
-     00BF5910  ___func_scene_79_sprites           scene_79_sprites
-     00BF5910  _scene_79_sprites                  scene_79_sprites
-     00BF5913  ___func_scene_79_triggers          scene_79_triggers
-     00BF5913  _scene_79_triggers                 scene_79_triggers
-     00BF591B  ___func_scene_80_sprites           scene_80_sprites
-     00BF591B  _scene_80_sprites                  scene_80_sprites
-     00BF591E  ___func_scene_80_triggers          scene_80_triggers
-     00BF591E  _scene_80_triggers                 scene_80_triggers
-     00BF5926  _scene_82_init                     scene_82_init
-     00BF5945  ___func_scene_82_sprites           scene_82_sprites
-     00BF5945  _scene_82_sprites                  scene_82_sprites
-     00BF5948  ___func_scene_82_triggers          scene_82_triggers
-     00BF5948  _scene_82_triggers                 scene_82_triggers
-     00BF5950  _scene_83_init                     scene_83_init
-     00BF596F  ___func_scene_83_sprites           scene_83_sprites
-     00BF596F  _scene_83_sprites                  scene_83_sprites
-     00BF5972  ___func_scene_83_triggers          scene_83_triggers
-     00BF5972  _scene_83_triggers                 scene_83_triggers
-     00BF597A  _scene_84_init                     scene_84_init
-     00BF5999  ___func_scene_84_sprites           scene_84_sprites
-     00BF5999  _scene_84_sprites                  scene_84_sprites
-     00BF599C  ___func_scene_84_triggers          scene_84_triggers
-     00BF599C  _scene_84_triggers                 scene_84_triggers
+     00BF584A  _scene_73_init                     scene_73_init
+     00BF5869  ___func_scene_73_sprites           scene_73_sprites
+     00BF5869  _scene_73_sprites                  scene_73_sprites
+     00BF586C  ___func_scene_73_triggers          scene_73_triggers
+     00BF586C  _scene_73_triggers                 scene_73_triggers
+     00BF5874  _scene_74_init                     scene_74_init
+     00BF5893  ___func_scene_74_sprites           scene_74_sprites
+     00BF5893  _scene_74_sprites                  scene_74_sprites
+     00BF5899  ___func_scene_74_triggers          scene_74_triggers
+     00BF5899  _scene_74_triggers                 scene_74_triggers
+     00BF58A1  _scene_75_init                     scene_75_init
+     00BF58C0  ___func_scene_75_sprites           scene_75_sprites
+     00BF58C0  _scene_75_sprites                  scene_75_sprites
+     00BF58C3  ___func_scene_75_triggers          scene_75_triggers
+     00BF58C3  _scene_75_triggers                 scene_75_triggers
+     00BF58CB  _scene_76_init                     scene_76_init
+     00BF58EA  ___func_scene_76_sprites           scene_76_sprites
+     00BF58EA  _scene_76_sprites                  scene_76_sprites
+     00BF58F0  ___func_scene_76_triggers          scene_76_triggers
+     00BF58F0  _scene_76_triggers                 scene_76_triggers
+     00BF58F8  _scene_77_init                     scene_77_init
+     00BF5917  ___func_scene_77_sprites           scene_77_sprites
+     00BF5917  _scene_77_sprites                  scene_77_sprites
+     00BF591A  ___func_scene_77_triggers          scene_77_triggers
+     00BF591A  _scene_77_triggers                 scene_77_triggers
+     00BF5922  _scene_78_init                     scene_78_init
+     00BF5941  ___func_scene_78_sprites           scene_78_sprites
+     00BF5941  _scene_78_sprites                  scene_78_sprites
+     00BF5944  ___func_scene_78_triggers          scene_78_triggers
+     00BF5944  _scene_78_triggers                 scene_78_triggers
+     00BF594C  _scene_79_init                     scene_79_init
+     00BF596B  ___func_scene_79_sprites           scene_79_sprites
+     00BF596B  _scene_79_sprites                  scene_79_sprites
+     00BF596E  ___func_scene_79_triggers          scene_79_triggers
+     00BF596E  _scene_79_triggers                 scene_79_triggers
+     00BF5976  ___func_scene_80_sprites           scene_80_sprites
+     00BF5976  _scene_80_sprites                  scene_80_sprites
+     00BF5979  ___func_scene_80_triggers          scene_80_triggers
+     00BF5979  _scene_80_triggers                 scene_80_triggers
+     00BF5981  _scene_82_init                     scene_82_init
+     00BF59A0  ___func_scene_82_sprites           scene_82_sprites
+     00BF59A0  _scene_82_sprites                  scene_82_sprites
+     00BF59A3  ___func_scene_82_triggers          scene_82_triggers
+     00BF59A3  _scene_82_triggers                 scene_82_triggers
+     00BF59AB  _scene_83_init                     scene_83_init
+     00BF59CA  ___func_scene_83_sprites           scene_83_sprites
+     00BF59CA  _scene_83_sprites                  scene_83_sprites
+     00BF59CD  ___func_scene_83_triggers          scene_83_triggers
+     00BF59CD  _scene_83_triggers                 scene_83_triggers
+     00BF59D5  _scene_84_init                     scene_84_init
+     00BF59F4  ___func_scene_84_sprites           scene_84_sprites
 ASxxxx Linker V03.00 + NoICE + sdld,  page 329.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BF59A4  ___func_scene_85_sprites           scene_85_sprites
-     00BF59A4  _scene_85_sprites                  scene_85_sprites
-     00BF59A7  ___func_scene_85_triggers          scene_85_triggers
-     00BF59A7  _scene_85_triggers                 scene_85_triggers
-     00BF59AF  ___func_scene_86_sprites           scene_86_sprites
-     00BF59AF  _scene_86_sprites                  scene_86_sprites
-     00BF59B2  ___func_scene_86_triggers          scene_86_triggers
-     00BF59B2  _scene_86_triggers                 scene_86_triggers
-     00BF59BA  _scene_87_init                     scene_87_init
-     00BF59D9  _scene_88_init                     scene_88_init
-     00BF59F8  ___func_scene_88_sprites           scene_88_sprites
-     00BF59F8  _scene_88_sprites                  scene_88_sprites
-     00BF5A01  ___func_scene_89_sprites           scene_89_sprites
-     00BF5A01  _scene_89_sprites                  scene_89_sprites
-     00BF5A07  ___func_scene_89_triggers          scene_89_triggers
-     00BF5A07  _scene_89_triggers                 scene_89_triggers
-     00BF5A17  ___func_scene_9_sprites            scene_9_sprites
-     00BF5A17  _scene_9_sprites                   scene_9_sprites
-     00BF5A1D  ___func_scene_9_triggers           scene_9_triggers
-     00BF5A1D  _scene_9_triggers                  scene_9_triggers
-     00BF5A35  _scene_90_init                     scene_90_init
-     00BF5A54  ___func_scene_90_sprites           scene_90_sprites
-     00BF5A54  _scene_90_sprites                  scene_90_sprites
-     00BF5A57  ___func_scene_90_triggers          scene_90_triggers
-     00BF5A57  _scene_90_triggers                 scene_90_triggers
-     00BF5A5F  ___func_scene_91_sprites           scene_91_sprites
-     00BF5A5F  _scene_91_sprites                  scene_91_sprites
-     00BF5A65  ___func_scene_92_sprites           scene_92_sprites
-     00BF5A65  _scene_92_sprites                  scene_92_sprites
-     00BF5A68  ___func_scene_92_triggers          scene_92_triggers
-     00BF5A68  _scene_92_triggers                 scene_92_triggers
-     00BF5A70  _scene_93_init                     scene_93_init
-     00BF5A8F  ___func_scene_93_sprites           scene_93_sprites
-     00BF5A8F  _scene_93_sprites                  scene_93_sprites
-     00BF5A95  ___func_scene_93_triggers          scene_93_triggers
-     00BF5A95  _scene_93_triggers                 scene_93_triggers
-     00BF5A9D  _scene_94_init                     scene_94_init
-     00BF5ABC  ___func_scene_94_triggers          scene_94_triggers
-     00BF5ABC  _scene_94_triggers                 scene_94_triggers
-     00BF5AD4  _scene_95_init                     scene_95_init
-     00BF5AF3  _scene_96_init                     scene_96_init
-     00BF5B12  _scene_97_init                     scene_97_init
-     00BF5B31  _scene_98_init                     scene_98_init
-     00BF5B50  ___func_scene_98_triggers          scene_98_triggers
-     00BF5B50  _scene_98_triggers                 scene_98_triggers
-     00BF5B60  _scene_99_init                     scene_99_init
-     00BF5B7F  ___func_scene_99_triggers          scene_99_triggers
-     00BF5B7F  _scene_99_triggers                 scene_99_triggers
-     00BF5B8F  _script_init_menu                  script_init_menu
-     00BF5BA1  _script_input_11                   script_input_11
-     00BF5BAC  _script_input_13                   script_input_13
+     00BF59F4  _scene_84_sprites                  scene_84_sprites
+     00BF59F7  ___func_scene_84_triggers          scene_84_triggers
+     00BF59F7  _scene_84_triggers                 scene_84_triggers
+     00BF59FF  ___func_scene_85_sprites           scene_85_sprites
+     00BF59FF  _scene_85_sprites                  scene_85_sprites
+     00BF5A02  ___func_scene_85_triggers          scene_85_triggers
+     00BF5A02  _scene_85_triggers                 scene_85_triggers
+     00BF5A0A  ___func_scene_86_sprites           scene_86_sprites
+     00BF5A0A  _scene_86_sprites                  scene_86_sprites
+     00BF5A0D  ___func_scene_86_triggers          scene_86_triggers
+     00BF5A0D  _scene_86_triggers                 scene_86_triggers
+     00BF5A15  _scene_87_init                     scene_87_init
+     00BF5A34  _scene_88_init                     scene_88_init
+     00BF5A53  ___func_scene_88_sprites           scene_88_sprites
+     00BF5A53  _scene_88_sprites                  scene_88_sprites
+     00BF5A5C  ___func_scene_89_sprites           scene_89_sprites
+     00BF5A5C  _scene_89_sprites                  scene_89_sprites
+     00BF5A62  ___func_scene_89_triggers          scene_89_triggers
+     00BF5A62  _scene_89_triggers                 scene_89_triggers
+     00BF5A72  ___func_scene_9_sprites            scene_9_sprites
+     00BF5A72  _scene_9_sprites                   scene_9_sprites
+     00BF5A78  ___func_scene_9_triggers           scene_9_triggers
+     00BF5A78  _scene_9_triggers                  scene_9_triggers
+     00BF5A90  _scene_90_init                     scene_90_init
+     00BF5AAF  ___func_scene_90_sprites           scene_90_sprites
+     00BF5AAF  _scene_90_sprites                  scene_90_sprites
+     00BF5AB2  ___func_scene_90_triggers          scene_90_triggers
+     00BF5AB2  _scene_90_triggers                 scene_90_triggers
+     00BF5ABA  ___func_scene_91_sprites           scene_91_sprites
+     00BF5ABA  _scene_91_sprites                  scene_91_sprites
+     00BF5AC0  ___func_scene_92_sprites           scene_92_sprites
+     00BF5AC0  _scene_92_sprites                  scene_92_sprites
+     00BF5AC3  ___func_scene_92_triggers          scene_92_triggers
+     00BF5AC3  _scene_92_triggers                 scene_92_triggers
+     00BF5ACB  _scene_93_init                     scene_93_init
+     00BF5AEA  ___func_scene_93_sprites           scene_93_sprites
+     00BF5AEA  _scene_93_sprites                  scene_93_sprites
+     00BF5AF0  ___func_scene_93_triggers          scene_93_triggers
+     00BF5AF0  _scene_93_triggers                 scene_93_triggers
+     00BF5AF8  _scene_94_init                     scene_94_init
+     00BF5B17  ___func_scene_94_triggers          scene_94_triggers
+     00BF5B17  _scene_94_triggers                 scene_94_triggers
+     00BF5B2F  _scene_95_init                     scene_95_init
+     00BF5B4E  _scene_96_init                     scene_96_init
+     00BF5B6D  _scene_97_init                     scene_97_init
+     00BF5B8C  _scene_98_init                     scene_98_init
+     00BF5BAB  ___func_scene_98_triggers          scene_98_triggers
+     00BF5BAB  _scene_98_triggers                 scene_98_triggers
+     00BF5BBB  _scene_99_init                     scene_99_init
+     00BF5BDA  ___func_scene_99_triggers          scene_99_triggers
+     00BF5BDA  _scene_99_triggers                 scene_99_triggers
 ASxxxx Linker V03.00 + NoICE + sdld,  page 330.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BF5BB7  _script_input_173                  script_input_173
-     00BF5BC0  _script_input_18                   script_input_18
-     00BF5BCB  _script_input_23                   script_input_23
-     00BF5BD6  _script_input_27                   script_input_27
-     00BF5BE1  _script_input_3                    script_input_3
-     00BF5BEC  _script_input_31                   script_input_31
-     00BF5BF7  _script_input_34                   script_input_34
-     00BF5C02  _script_input_38                   script_input_38
-     00BF5C0D  _script_input_43                   script_input_43
-     00BF5C18  _script_input_49                   script_input_49
-     00BF5C23  _script_input_51                   script_input_51
-     00BF5C2E  _script_input_55                   script_input_55
-     00BF5C39  _script_input_57                   script_input_57
-     00BF5C44  _script_input_7                    script_input_7
-     00BF5C4F  ___func_sound_legacy_0             sound_legacy_0
-     00BF5C4F  _sound_legacy_0                    sound_legacy_0
-     00BF5C5F  ___func_sound_legacy_1             sound_legacy_1
-     00BF5C5F  _sound_legacy_1                    sound_legacy_1
-     00BF5C75  ___func_sound_legacy_11            sound_legacy_11
-     00BF5C75  _sound_legacy_11                   sound_legacy_11
-     00BF5C83  ___func_sound_legacy_12            sound_legacy_12
-     00BF5C83  _sound_legacy_12                   sound_legacy_12
-     00BF5C92  ___func_sound_legacy_16            sound_legacy_16
-     00BF5C92  _sound_legacy_16                   sound_legacy_16
-     00BF5CA3  ___func_sound_legacy_17            sound_legacy_17
-     00BF5CA3  _sound_legacy_17                   sound_legacy_17
-     00BF5CB7  ___func_sound_legacy_18            sound_legacy_18
-     00BF5CB7  _sound_legacy_18                   sound_legacy_18
-     00BF5CC9  ___func_sound_legacy_19            sound_legacy_19
-     00BF5CC9  _sound_legacy_19                   sound_legacy_19
-     00BF5CDE  ___func_sound_legacy_22            sound_legacy_22
-     00BF5CDE  _sound_legacy_22                   sound_legacy_22
-     00BF5CEF  ___func_sound_legacy_23            sound_legacy_23
-     00BF5CEF  _sound_legacy_23                   sound_legacy_23
-     00BF5D00  ___func_sound_legacy_24            sound_legacy_24
-     00BF5D00  _sound_legacy_24                   sound_legacy_24
-     00BF5D12  ___func_sound_legacy_26            sound_legacy_26
-     00BF5D12  _sound_legacy_26                   sound_legacy_26
-     00BF5D26  ___func_sound_legacy_27            sound_legacy_27
-     00BF5D26  _sound_legacy_27                   sound_legacy_27
-     00BF5D45  ___func_sound_legacy_28            sound_legacy_28
-     00BF5D45  _sound_legacy_28                   sound_legacy_28
-     00BF5D58  ___func_sound_legacy_30            sound_legacy_30
-     00BF5D58  _sound_legacy_30                   sound_legacy_30
-     00BF5D6C  ___func_sound_legacy_5             sound_legacy_5
-     00BF5D6C  _sound_legacy_5                    sound_legacy_5
-     00BF5D7C  ___func_sound_legacy_8             sound_legacy_8
-     00BF5D7C  _sound_legacy_8                    sound_legacy_8
-     00BF5D8F  ___func_sound_legacy_9             sound_legacy_9
-     00BF5D8F  _sound_legacy_9                    sound_legacy_9
-     00BF5DA2  ___func_sprite_blank_tileset       sprite_blank_tileset
+     00BF5BEA  _script_init_menu                  script_init_menu
+     00BF5BFC  _script_input_11                   script_input_11
+     00BF5C07  _script_input_13                   script_input_13
+     00BF5C12  _script_input_173                  script_input_173
+     00BF5C1B  _script_input_18                   script_input_18
+     00BF5C26  _script_input_23                   script_input_23
+     00BF5C31  _script_input_27                   script_input_27
+     00BF5C3C  _script_input_3                    script_input_3
+     00BF5C47  _script_input_31                   script_input_31
+     00BF5C52  _script_input_34                   script_input_34
+     00BF5C5D  _script_input_38                   script_input_38
+     00BF5C68  _script_input_43                   script_input_43
+     00BF5C73  _script_input_49                   script_input_49
+     00BF5C7E  _script_input_51                   script_input_51
+     00BF5C89  _script_input_55                   script_input_55
+     00BF5C94  _script_input_57                   script_input_57
+     00BF5C9F  _script_input_7                    script_input_7
+     00BF5CAA  ___func_sound_legacy_0             sound_legacy_0
+     00BF5CAA  _sound_legacy_0                    sound_legacy_0
+     00BF5CBA  ___func_sound_legacy_1             sound_legacy_1
+     00BF5CBA  _sound_legacy_1                    sound_legacy_1
+     00BF5CD0  ___func_sound_legacy_11            sound_legacy_11
+     00BF5CD0  _sound_legacy_11                   sound_legacy_11
+     00BF5CDE  ___func_sound_legacy_12            sound_legacy_12
+     00BF5CDE  _sound_legacy_12                   sound_legacy_12
+     00BF5CED  ___func_sound_legacy_16            sound_legacy_16
+     00BF5CED  _sound_legacy_16                   sound_legacy_16
+     00BF5CFE  ___func_sound_legacy_17            sound_legacy_17
+     00BF5CFE  _sound_legacy_17                   sound_legacy_17
+     00BF5D12  ___func_sound_legacy_18            sound_legacy_18
+     00BF5D12  _sound_legacy_18                   sound_legacy_18
+     00BF5D24  ___func_sound_legacy_19            sound_legacy_19
+     00BF5D24  _sound_legacy_19                   sound_legacy_19
+     00BF5D39  ___func_sound_legacy_22            sound_legacy_22
+     00BF5D39  _sound_legacy_22                   sound_legacy_22
+     00BF5D4A  ___func_sound_legacy_23            sound_legacy_23
+     00BF5D4A  _sound_legacy_23                   sound_legacy_23
+     00BF5D5B  ___func_sound_legacy_24            sound_legacy_24
+     00BF5D5B  _sound_legacy_24                   sound_legacy_24
+     00BF5D6D  ___func_sound_legacy_26            sound_legacy_26
+     00BF5D6D  _sound_legacy_26                   sound_legacy_26
+     00BF5D81  ___func_sound_legacy_27            sound_legacy_27
+     00BF5D81  _sound_legacy_27                   sound_legacy_27
+     00BF5DA0  ___func_sound_legacy_28            sound_legacy_28
+     00BF5DA0  _sound_legacy_28                   sound_legacy_28
+     00BF5DB3  ___func_sound_legacy_30            sound_legacy_30
+     00BF5DB3  _sound_legacy_30                   sound_legacy_30
+     00BF5DC7  ___func_sound_legacy_5             sound_legacy_5
+     00BF5DC7  _sound_legacy_5                    sound_legacy_5
+     00BF5DD7  ___func_sound_legacy_8             sound_legacy_8
+     00BF5DD7  _sound_legacy_8                    sound_legacy_8
 ASxxxx Linker V03.00 + NoICE + sdld,  page 331.
 Hexadecimal  [32-Bits]
 
 Area                                    Addr        Size        Decimal Bytes (Attributes)
 --------------------------------        ----        ----        ------- ----- ------------
-_CODE_191                           00BF4000    00001DB6 =        7606. bytes (REL,CON)
+_CODE_191                           00BF4000    00001E11 =        7697. bytes (REL,CON)
 
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
-     00BF5DA2  _sprite_blank_tileset              sprite_blank_tileset
-     00BF5DA5  _logo_init                         logo
-     00BF5DB5  _logo_update                       logo
+     00BF5DEA  ___func_sound_legacy_9             sound_legacy_9
+     00BF5DEA  _sound_legacy_9                    sound_legacy_9
+     00BF5DFD  ___func_sprite_blank_tileset       sprite_blank_tileset
+     00BF5DFD  _sprite_blank_tileset              sprite_blank_tileset
+     00BF5E00  _logo_init                         logo
+     00BF5E10  _logo_update                       logo
 
 ASxxxx Linker V03.00 + NoICE + sdld,  page 332.
 Hexadecimal  [32-Bits]
@@ -21277,6 +21284,8 @@ C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/scene_230_init.rel
                                           [ scene_230_init ]
 C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/scene_230_sprites.rel
                                           [ scene_230_sprites ]
+C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/scene_230_triggers.rel
+                                          [ scene_230_triggers ]
 C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/scene_230.rel
                                           [ scene_230 ]
 C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/scene_231_collisions.rel
@@ -25239,6 +25248,8 @@ C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/trigger_431_interact.rel
                                           [ trigger_431_interact ]
 C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/trigger_432_interact.rel
                                           [ trigger_432_interact ]
+C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/trigger_433_interact.rel
+                                          [ trigger_433_interact ]
 C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/trigger_434_interact.rel
                                           [ trigger_434_interact ]
 C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/trigger_435_interact.rel
@@ -25585,6 +25596,8 @@ C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/trigger_589_interact.rel
                                           [ trigger_589_interact ]
 C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/trigger_59_interact.rel
                                           [ trigger_59_interact ]
+C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/trigger_590_interact.rel
+                                          [ trigger_590_interact ]
 C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/trigger_6_interact.rel
                                           [ trigger_6_interact ]
 C:/Users/Ellen/AppData/Local/Temp/_gbsbuild/obj/trigger_60_interact.rel

@@ -3585,6 +3585,7 @@
 00:00BE ___bank_scene_285_init
 00:00BE ___bank_scene_286_init
 00:00BE ___bank_scene_287_init
+00:00BE ___bank_scene_294_sprites
 00:00BE ___bank_scene_305_init
 00:00BE ___bank_scene_307_init
 00:00BE ___bank_scene_308_init
@@ -3610,9 +3611,6 @@
 00:00BE ___bank_scene_5_triggers
 00:00BE ___bank_scene_68_init
 00:00BE ___bank_scene_69_init
-00:00BE ___bank_scene_70_init
-00:00BE ___bank_scene_71_init
-00:00BE ___bank_scene_72_init
 00:00BE ___bank_scene_95_triggers
 00:00BE ___bank_scene_96_triggers
 00:00BE ___bank_scene_97_triggers
@@ -3753,6 +3751,7 @@
 00:00BE ___bank_trigger_42_interact
 00:00BE ___bank_trigger_431_interact
 00:00BE ___bank_trigger_432_interact
+00:00BE ___bank_trigger_433_interact
 00:00BE ___bank_trigger_434_interact
 00:00BE ___bank_trigger_435_interact
 00:00BE ___bank_trigger_436_interact
@@ -3885,6 +3884,7 @@
 00:00BE ___bank_trigger_588_interact
 00:00BE ___bank_trigger_589_interact
 00:00BE ___bank_trigger_58_interact
+00:00BE ___bank_trigger_590_interact
 00:00BE ___bank_trigger_59_interact
 00:00BE ___bank_trigger_5_interact
 00:00BE ___bank_trigger_60_interact
@@ -4262,6 +4262,7 @@
 00:00BF ___bank_scene_227_sprites
 00:00BF ___bank_scene_228_triggers
 00:00BF ___bank_scene_229_triggers
+00:00BF ___bank_scene_230_triggers
 00:00BF ___bank_scene_234_triggers
 00:00BF ___bank_scene_235_sprites
 00:00BF ___bank_scene_236_triggers
@@ -4296,7 +4297,6 @@
 00:00BF ___bank_scene_285_sprites
 00:00BF ___bank_scene_285_triggers
 00:00BF ___bank_scene_287_triggers
-00:00BF ___bank_scene_294_sprites
 00:00BF ___bank_scene_296_sprites
 00:00BF ___bank_scene_297_sprites
 00:00BF ___bank_scene_298_sprites
@@ -4406,10 +4406,13 @@
 00:00BF ___bank_scene_69_triggers
 00:00BF ___bank_scene_6_sprites
 00:00BF ___bank_scene_6_triggers
+00:00BF ___bank_scene_70_init
 00:00BF ___bank_scene_70_sprites
 00:00BF ___bank_scene_70_triggers
+00:00BF ___bank_scene_71_init
 00:00BF ___bank_scene_71_sprites
 00:00BF ___bank_scene_71_triggers
+00:00BF ___bank_scene_72_init
 00:00BF ___bank_scene_72_sprites
 00:00BF ___bank_scene_72_triggers
 00:00BF ___bank_scene_73_init
