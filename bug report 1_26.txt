@@ -1,5 +1,4 @@
-0 hp bug (starting at starman jr)
-starmen teleport spookane *
+0 hp bug*
 r7 battle repeat*
 change teddy actor *
 teddy text box *
@@ -9,7 +8,22 @@ ellay teleport *
 teleport telepathy *
 ellay department *
 teleport random battle sent previous spot *
+rosemary flag*
+pippi sprite direction*
+
+llyoid plasma/laser damage (minus magicant and route 1)
+music in house mt itoi*
+music after teddys death*
+cutscenes for boat too fast*
+boat still after eve*
+robot fight doesnt end (bottom one)*
 
 
 
 *= not tested to be fixed yet
+
+llyoid laser swap in front if
+ana rebalance
+ninten to ninten exp or enemies to earthbound enemy stat
+add a way to hear the melodies you have
+pause in ocarina
