@@ -1,0 +1,5 @@
+Versions:
+Mother Demake: base version, eb exp with mother enemies, mother attack but eb hp/pp
+Mother Demake (Faithful): Mother 1 stats, Mother 1 exp
+Mother Demake (M1): Mother 1 exp, mother attack but eb hp/pp
+Mother Demake (eb exp): Earthbound exp, mother attack with eb hp/pp

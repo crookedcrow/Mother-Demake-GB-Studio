@@ -23,7 +23,7 @@ robot fight doesnt end (bottom one)*
 *= not tested to be fixed yet
 
 llyoid laser swap in front if
-ana rebalance
+ana rebalance*
 ninten to ninten exp or enemies to earthbound enemy stat
-add a way to hear the melodies you have
-pause in ocarina
+add a way to see the melodies you have*
+pause in ocarina*
